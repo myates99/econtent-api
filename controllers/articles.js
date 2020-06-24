@@ -1,4 +1,5 @@
 const Article = require('../models/Article');
+const ErrorResponse = require('../utils/errorResponse');
 
 // @desc    Get all articles
 // @route   GET /api/v1/articles
@@ -11,7 +12,7 @@ exports.getArticles = async (req, res, next) => {
       .status(200)
       .json({ success: true, count: articles.length, data: articles });
   } catch (err) {
-    res.status(400).json({ success: false });
+    next(err);
   }
 };
 
@@ -23,12 +24,14 @@ exports.getArticle = async (req, res, next) => {
     const article = await Article.findById(req.params.id);
 
     if (!article) {
-      return res.status(400).json({ success: false });
+      return next(
+        new ErrorResponse(`Article not found with id of ${err.value}`, 404)
+      );
     }
 
     res.status(200).json({ success: true, data: article });
   } catch (err) {
-    res.status(400).json({ success: false });
+    next(err);
   }
 };
 
@@ -41,7 +44,7 @@ exports.createtArticles = async (req, res, next) => {
 
     res.status(201).json({ success: true, data: article });
   } catch (err) {
-    res.status(400).json({ success: false });
+    next(err);
   }
 };
 
@@ -56,12 +59,14 @@ exports.updateArticle = async (req, res, next) => {
     });
 
     if (!article) {
-      return res.status(400).json({ success: false });
+      return next(
+        new ErrorResponse(`Article not found with id of ${err.value}`, 404)
+      );
     }
 
     res.status(200).json({ success: true, data: article });
   } catch (err) {
-    res.status(400).json({ success: false });
+    next(err);
   }
 };
 
@@ -73,11 +78,13 @@ exports.deleteArticle = async (req, res, next) => {
     const article = await Article.findByIdAndDelete(req.params.id);
 
     if (!article) {
-      return res.status(400).json({ success: false, data: {} });
+      return next(
+        new ErrorResponse(`Article not found with id of ${err.value}`, 404)
+      );
     }
 
     res.status(200).json({ success: true });
   } catch (err) {
-    res.status(400).json({ success: false });
+    next(err);
   }
 };
