@@ -3,10 +3,10 @@ const slugify = require('slugify');
 
 const ArticleSchema = new mongoose.Schema(
   {
-    user: {
+    createdBy: {
       type: mongoose.Schema.ObjectId,
       ref: 'User',
-      required: true
+      required: false
     },
     name: {
       type: String,
@@ -25,8 +25,8 @@ const ArticleSchema = new mongoose.Schema(
       default: 'no-photo.jpg'
     },
     instagramLink: String,
-    paragraphs: [{ subheading: String, body: [String] }],
-    refrences: [{ name: String, locatedAt: String }],
+    paragraphs: [{ subheading: { type: String }, body: { type: [String] } }],
+    refrences: [{ name: { type: String }, locatedAt: { type: String } }],
     createdAt: {
       type: Date,
       default: Date.now
