@@ -20,9 +20,18 @@ const ArticleSchema = new mongoose.Schema(
       required: [true, 'Please add a summary'],
       maxlength: [500, 'Summary can not be more than 500 characters']
     },
-    photo: {
-      type: String,
-      default: 'no-photo.jpg'
+    tags: {
+      type: [String],
+      enum: [
+        'Alphabet',
+        'Energy',
+        'Waste',
+        'Food',
+        'Transport',
+        'Climate-Science',
+        'Politics',
+        'Water'
+      ]
     },
     instagramLink: String,
     paragraphs: [{ subheading: { type: String }, body: { type: [String] } }],
