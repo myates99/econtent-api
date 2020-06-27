@@ -17,7 +17,7 @@ exports.getArticle = asyncHandler(async (req, res, next) => {
 
   if (!article) {
     return next(
-      new ErrorResponse(`Article not found with id of ${err.value}`, 404)
+      new ErrorResponse(`Article not found with id of ${err.value}`, 400)
     );
   }
 
@@ -28,6 +28,9 @@ exports.getArticle = asyncHandler(async (req, res, next) => {
 // @route   POST /api/v1/articles
 // @access  Private
 exports.createtArticles = asyncHandler(async (req, res, next) => {
+  // Add user to req.body
+  req.body.user = req.user.id;
+
   const article = await Article.create(req.body);
 
   res.status(201).json({ success: true, data: article });
@@ -37,16 +40,28 @@ exports.createtArticles = asyncHandler(async (req, res, next) => {
 // @route   PUT /api/v1/articles/:id
 // @access  Private
 exports.updateArticle = asyncHandler(async (req, res, next) => {
-  const article = await Article.findByIdAndUpdate(req.params.id, req.body, {
-    new: true,
-    runValidators: true
-  });
+  let article = await Article.findById(req.params.id);
 
   if (!article) {
     return next(
-      new ErrorResponse(`Article not found with id of ${err.value}`, 404)
+      new ErrorResponse(`Article not found with id of ${err.value}`, 400)
     );
   }
+
+  // Make sure user created the article
+  if (article.user.toString() !== req.user.id && req.user.role !== 'admin') {
+    return next(
+      new ErrorResponse(
+        `User ${req.user.id} is not authorized to update this Article`,
+        401
+      )
+    );
+  }
+
+  article = await Article.findByIdAndUpdate(req.params.id, req.body, {
+    new: true,
+    runValidators: true
+  });
 
   res.status(200).json({ success: true, data: article });
 });
@@ -55,13 +70,25 @@ exports.updateArticle = asyncHandler(async (req, res, next) => {
 // @route   DELETE /api/v1/articles/:id
 // @access  Private
 exports.deleteArticle = asyncHandler(async (req, res, next) => {
-  const article = await Article.findByIdAndDelete(req.params.id);
+  let article = await Article.findById(req.params.id);
 
   if (!article) {
     return next(
-      new ErrorResponse(`Article not found with id of ${err.value}`, 404)
+      new ErrorResponse(`Article not found with id of ${err.value}`, 400)
     );
   }
+
+  // Make sure user created the article
+  if (article.user.toString() !== req.user.id && req.user.role !== 'admin') {
+    return next(
+      new ErrorResponse(
+        `User ${req.user.id} is not authorized to update this Article`,
+        401
+      )
+    );
+  }
+
+  article = await Article.findByIdAndDelete(req.params.id);
 
   res.status(200).json({ success: true });
 });

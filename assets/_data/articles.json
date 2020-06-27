@@ -1,7 +1,7 @@
 [
   {
     "id": "5d713995b721c3bb38c1f5d0",
-    "createdBy": "5d7a514b5d2c12c7449be042",
+    "user": "5d7a514b5d2c12c7449be042",
     "name": "net Zero",
     "summary": "An entity is said to be net Zero when their emmited emissions are equivilent to ones taken out of the environment.",
     "tags": ["Alphabet", "Politics", "Energy"],
@@ -27,7 +27,7 @@
   },
   {
     "id": "5d713a66ec8f2b88b8f830b8",
-    "createdBy": "5d7a514b5d2c12c7449be042",
+    "user": "5d7a514b5d2c12c7449be042",
     "name": "Yearly Warming",
     "summary": "Tempreatures have risen since the mid-1800s (the industrial revoloution).",
     "tags": ["Alphabet", "Climate-Science", "Energy"],

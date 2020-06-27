@@ -3,10 +3,10 @@ const slugify = require('slugify');
 
 const ArticleSchema = new mongoose.Schema(
   {
-    createdBy: {
+    user: {
       type: mongoose.Schema.ObjectId,
       ref: 'User',
-      required: false
+      required: true
     },
     name: {
       type: String,
