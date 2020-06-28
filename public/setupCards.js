@@ -5,7 +5,7 @@ DOMNode = document.querySelector('.tiles');
 
 request.open(
   'GET',
-  'https://econtent.org.uk/api/v1/articles?tags[in]=Alphabet&homeIndex[gt]=0&sort=homeIndex'
+  'https://econtent.org.uk/api/v1/articles?tags[in]=Alphabet&sort=homeIndex'
 );
 
 request.onreadystatechange = function () {
