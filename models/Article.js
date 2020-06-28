@@ -34,6 +34,10 @@ const ArticleSchema = new mongoose.Schema(
       ]
     },
     instagramLink: String,
+    homeIndex: {
+      type: Number,
+      unique: true
+    },
     paragraphs: [{ subheading: { type: String }, body: { type: [String] } }],
     refrences: [{ name: { type: String }, locatedAt: { type: String } }],
     createdAt: {
