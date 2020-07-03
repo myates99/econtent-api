@@ -11,7 +11,7 @@ request.open(
 request.onreadystatechange = function () {
   if (request.status === 200 && request.readyState === 4) {
     data = JSON.parse(request.responseText);
-    console.log(data.data);
+
     // For each article create a card
     for (var item in data.data) {
       // Get element
