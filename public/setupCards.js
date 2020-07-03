@@ -17,6 +17,8 @@ request.onreadystatechange = function () {
       // Get element
       var element = data.data[item];
 
+      console.log(element);
+
       // Create card
       var listItem = document.createElement('article');
       listItem.className = 'card';
@@ -35,7 +37,7 @@ request.onreadystatechange = function () {
       newspan.appendChild(newImage);
 
       var newAnchor = document.createElement('a');
-      newAnchor.href = 'article.html';
+      newAnchor.href = 'article.html?article=' + element._id;
 
       listItem.appendChild(newAnchor);
 

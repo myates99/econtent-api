@@ -1,12 +1,20 @@
-var data, DOMNode;
+var data, DOMNode, query;
 var requestArticle = new XMLHttpRequest();
 var requestSimilar = new XMLHttpRequest();
 
 DOMNode = document.querySelector('.container');
 
+// Get curr article ID
+query = window.location.search;
+var articleID = /article=([^&]+)/.exec(
+  'localhost:5000/article.html' + query
+)[1];
+
+console.log(articleID);
+
 requestArticle.open(
   'GET',
-  'https://econtent.org.uk/api/v1/articles/5eff28cf4802b831e446db8c'
+  'https://econtent.org.uk/api/v1/articles/' + articleID
 );
 
 requestSimilar.open(
@@ -97,45 +105,46 @@ requestSimilar.onreadystatechange = function () {
 
     // For each article create a card
     for (var item in data.data) {
-      // Get element
-      var element = data.data[item];
+      if (articleID !== data.data[item]._id) {
+        // Get element
+        var element = data.data[item];
 
-      // Create card
-      var listItem = document.createElement('article');
-      listItem.className = 'card';
+        // Create card
+        var listItem = document.createElement('article');
+        listItem.className = 'card';
 
-      newSection.appendChild(listItem);
+        newSection.appendChild(listItem);
 
-      var newspan = document.createElement('span');
-      newspan.className = 'image';
+        var newspan = document.createElement('span');
+        newspan.className = 'image';
 
-      listItem.appendChild(newspan);
+        listItem.appendChild(newspan);
 
-      var newImage = document.createElement('img');
-      newImage.src = element.instagramLink;
-      newImage.alt = '';
+        var newImage = document.createElement('img');
+        newImage.src = element.instagramLink;
+        newImage.alt = '';
 
-      newspan.appendChild(newImage);
+        newspan.appendChild(newImage);
 
-      var newAnchor = document.createElement('a');
-      // Where articles will go
-      // newAnchor.href = 'generic.html';
+        var newAnchor = document.createElement('a');
+        newAnchor.href = 'article.html?article=' + element._id;
 
-      listItem.appendChild(newAnchor);
+        listItem.appendChild(newAnchor);
 
-      var newHeading = document.createElement('h2');
-      var newText = document.createTextNode(element.name);
-      newHeading.appendChild(newText);
+        var newHeading = document.createElement('h2');
+        var newText = document.createTextNode(element.name);
+        newHeading.appendChild(newText);
 
-      newAnchor.appendChild(newHeading);
+        newAnchor.appendChild(newHeading);
 
-      var newDiv = document.createElement('div');
-      var newPara = document.createElement('p');
-      newText = document.createTextNode(element.summary);
-      newPara.appendChild(newText);
-      newDiv.appendChild(newPara);
+        var newDiv = document.createElement('div');
+        var newPara = document.createElement('p');
+        newText = document.createTextNode(element.summary);
+        newPara.appendChild(newText);
+        newDiv.appendChild(newPara);
 
-      newAnchor.appendChild(newDiv);
+        newAnchor.appendChild(newDiv);
+      }
     }
   }
 };
