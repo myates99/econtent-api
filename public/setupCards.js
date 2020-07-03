@@ -35,8 +35,7 @@ request.onreadystatechange = function () {
       newspan.appendChild(newImage);
 
       var newAnchor = document.createElement('a');
-      // Where articles will go
-      // newAnchor.href = 'generic.html';
+      newAnchor.href = 'article.html';
 
       listItem.appendChild(newAnchor);
 
