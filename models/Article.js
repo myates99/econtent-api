@@ -38,7 +38,7 @@ const ArticleSchema = new mongoose.Schema(
       type: Number,
       unique: true
     },
-    paragraphs: [{ subheading: { type: String }, body: { type: [String] } }],
+    sections: [{ subheading: { type: String }, body: { type: [String] } }],
     refrences: [{ name: { type: String }, locatedAt: { type: String } }],
     createdAt: {
       type: Date,
