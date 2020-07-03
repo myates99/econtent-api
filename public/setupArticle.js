@@ -10,8 +10,6 @@ var articleID = /article=([^&]+)/.exec(
   'localhost:5000/article.html' + query
 )[1];
 
-console.log(articleID);
-
 requestArticle.open(
   'GET',
   'https://econtent.org.uk/api/v1/articles/' + articleID

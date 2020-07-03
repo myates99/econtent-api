@@ -17,8 +17,6 @@ request.onreadystatechange = function () {
       // Get element
       var element = data.data[item];
 
-      console.log(element);
-
       // Create card
       var listItem = document.createElement('article');
       listItem.className = 'card';
