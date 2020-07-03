@@ -17,9 +17,13 @@ requestSimilar.open(
 requestArticle.onreadystatechange = function () {
   if (requestArticle.status === 200 && requestArticle.readyState === 4) {
     data = JSON.parse(requestArticle.responseText);
+    var title = document.getElementById('title');
 
     // Get element
     var element = data.data;
+
+    var newText = document.createTextNode(element.name);
+    title.appendChild(newText);
 
     // Create card
     var header = document.createElement('header');
@@ -27,7 +31,7 @@ requestArticle.onreadystatechange = function () {
     DOMNode.appendChild(header);
 
     var newHeading = document.createElement('h2');
-    var newText = document.createTextNode(element.name);
+    newText = document.createTextNode(element.name);
     newHeading.appendChild(newText);
 
     header.appendChild(newHeading);
