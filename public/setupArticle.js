@@ -15,11 +15,6 @@ requestArticle.open(
   'https://econtent.org.uk/api/v1/articles/' + articleID
 );
 
-requestSimilar.open(
-  'GET',
-  'https://econtent.org.uk/api/v1/articles?tags[in]=Energy&tags[in]=Climate-Science&limit=9'
-);
-
 requestArticle.onreadystatechange = function () {
   if (requestArticle.status === 200 && requestArticle.readyState === 4) {
     data = JSON.parse(requestArticle.responseText);
@@ -78,6 +73,26 @@ requestArticle.onreadystatechange = function () {
         newContainer.appendChild(newPara);
       }
     }
+
+    // Set up Simliar articles query
+    // Create query string
+    let queryStr = 'https://econtent.org.uk/api/v1/articles?limit=9';
+
+    let tags = element.tags;
+
+    // Loop over removeFields and delete them from reqQuery
+    tags = tags.filter((item) => item !== 'Alphabet');
+
+    // Loop over tags and add them to the query
+    tags.forEach((param) => (queryStr = queryStr.concat('&tags[in]=' + param)));
+
+    console.log(tags);
+    console.log(queryStr);
+    console.log('hello');
+
+    requestSimilar.open('GET', queryStr);
+
+    requestSimilar.send();
   }
 };
 
@@ -148,4 +163,3 @@ requestSimilar.onreadystatechange = function () {
 };
 
 requestArticle.send();
-requestSimilar.send();
