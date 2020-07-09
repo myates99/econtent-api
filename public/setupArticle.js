@@ -86,10 +86,6 @@ requestArticle.onreadystatechange = function () {
     // Loop over tags and add them to the query
     tags.forEach((param) => (queryStr = queryStr.concat('&tags[in]=' + param)));
 
-    console.log(tags);
-    console.log(queryStr);
-    console.log('hello');
-
     requestSimilar.open('GET', queryStr);
 
     requestSimilar.send();
