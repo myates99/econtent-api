@@ -40,6 +40,8 @@ const ArticleSchema = new mongoose.Schema(
     },
     sections: [{ subheading: { type: String }, body: { type: [String] } }],
     refrences: [{ name: { type: String }, locatedAt: { type: String } }],
+    colour: String,
+    backgroundImage: String,
     createdAt: {
       type: Date,
       default: Date.now
