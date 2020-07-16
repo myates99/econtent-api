@@ -51,10 +51,10 @@
   },
   {
     "user": "5d7a514b5d2c12c7449be042",
-    "name": "Yearly warming",
+    "name": "Yearly Warming",
     "summary": "What is yearly warming, and how does this impact on humans?",
     "tags": ["Alphabet", "Energy", "Climate-Science"],
-    "instagramLink": "B_hi5Lrlpoh",
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/95264046_838782103294298_1597733386697505561_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=102&_nc_ohc=-_pS1jM8pPYAX9t-2y-&oh=0650b1bcd49c1ff400f2c0dc70b3eb17&oe=5F1D39D2",
     "homeIndex": "25",
     "sections": [
       {
@@ -99,31 +99,141 @@
   },
   {
     "user": "5d7a514b5d2c12c7449be042",
-    "name": "net Zero",
-    "summary": "An entity is said to be net Zero when their emmited emissions are equivilent to ones taken out of the environment.",
-    "tags": ["Alphabet", "Politics", "Energy"],
-    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/94225878_130785248555914_7891359585973671953_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=110&_nc_ohc=3gyyW0WVjEMAX8AoTdM&oh=6aab55b89d40b03e1b5661cb029f2c18&oe=5F1ACE6F",
-    "homeIndex": "26",
+    "name": "Albedo Effect",
+    "summary": "What's the Albedo effect and how does it contribute to climate change?",
+    "tags": ["Alphabet", "Climate-Science"],
+    "instagramLink": "CCBMuKjHvp1",
+    "homeIndex": "1",
     "sections": [
       {
-        "subheading": "What can you do?",
+        "__comment8__": "Title of the section",
+        "subheading": "How does it work?",
+
+        "__comment9__": "Contents of the section which can be seperated into multiple paragraphs",
         "body": [
-          "One way of reducing your carbon footprint would be to swap to renewable energy companies."
+          "The Albedo Effect is where light surfaces reflect sunlight and redirect solar energy out of the atmosphere.This is mostly from the Arctic and Antarctic; as well as glaciers, light clouds, dust, smoke and pollen.",
+          "Albedo is a form of climatic feedback resulting in a small cooling effect. The amount of solar energy absorbed or reflected drives climate and weather patterns. As glacial melting increases, more dark ocean is revealed, absorbing solar energy and creating a positive feeback loop that is accelerating global warming."
+        ]
+      },
+      {
+        "subheading": "What's happening with the Arctic now?",
+        "body": [
+          "As highlighted in the annual Arctic report card, the average annual land surface air temperature north of 60° N for October 2018-August 2019 was the second warmest since 1900. Warming air temperatures and the positive feedback mechanism of the albedo effect is driving changes in the Arctic environment that affect ecosystems and communities on a regional and global scale.",
+          "The Greenland Ice Sheet is losing nearly 267 billion metric tons of ice per year and currently contributing to global average sea-level rise at a rate of about 0.7 mm per year."
         ]
       }
     ],
     "refrences": [
       {
-        "name": "Net Zero and the different measures of UKs greenhouse gas emissions",
-        "locatedAt": "Office for National Statistics"
+        "name": "Report 1",
+        "locatedAt": "https://www.arctic.noaa.gov/Report-Card"
       },
       {
-        "name": "Reducing UK emissions: 2019 progress report to parliament",
-        "locatedAt": "Committee on Cimate Change"
+        "name": "Albedo Effect",
+        "locatedAt": "https://www.metoffice.gov.uk/weather/learn-about/weather/atmosphere/albedo"
+      },
+      {
+        "name": "The new face of the Arctic",
+        "locatedAt": "https://www.nature.com/articles/446133a"
       }
     ],
+    "colour": "#0cf0eb",
+    "backgroundImage": "https://images.unsplash.com/photo-1515133997814-e6460be24073?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Net Zero",
+    "summary": "What actually is Net Zero, and is it enough?",
+    "tags": ["Alphabet", "Energy", "Transport", "Politics"],
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/94225878_130785248555914_7891359585973671953_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=110&_nc_ohc=WbP1rT5bWPkAX9C_Oj6&oh=4100f4aa76006173791a7f96358e644a&oe=5F3A726F",
+    "homeIndex": "26",
+    "sections": [
+      {
+        "__comment8__": "Title of the section",
+        "subheading": "What Does it Mean?",
 
-    "colour": "#ffdd33",
-    "backgroundImage": "https://econtent.org.uk/images/display.jpg"
+        "__comment9__": "Contents of the section which can be seperated into multiple paragraphs",
+        "body": [
+          "Net Zero describes a 100% reduction in CO2e* achieved when the same amount of CO2e produced by the UK is also being removed from the balance. So, it doesn’t mean no emissions at all, only that the UK will become carbon neutral. The amended national goal of a 100% reduction in CO2e by 2050 relevant to 1990 will require emissions to fall at an average rate of 15 MtCO2e per year, the equivalent to 3% of total emissions in 2018. But – how are our emissions measures?"
+        ]
+      },
+      {
+        "subheading": "What is included/ not included?",
+        "body": [
+          "GHG estimates are published by the Department for Business, Energy and Industrial Strategy (BEIS) – A branch of the Civil Service which advice the government and are responsible for monitoring the countries progress with this target. So, what criteria is used to measure our emissions? The BEIS use what are called production-based emissions – so the emissions that the UK is responsible for producing, rather than those we consume. This could also be thought of as primary versus secondary emissions. The emissions included must also be territorial – that means anything produced within the UK no matter where the party responsible for these emissions are registered. That also means that UK companies who conduct business and produce emissions abroad, say through a factory, are discounted from predictions. Estimates also include the activities of people within the UK, both from British citizens and non-UK visitors. Finally, it includes land use within the UK – from peatland, to forests, to agriculture. ",
+          "Due to pressure from the public and the Committee on Climate Change, new Net Zero targets now account for international aviation and shipping (IAS), and from 2020 include more thorough estimates from peatbogs. IAS emissions have increased by over 80% since 1990 and demand is likely to increase further. Poorly managed peatland is a large source of CO2 in the UK, responsible for emitting an estimated 23m tonnes in 2017. For context, that is only 5m tonnes less than the total amount of CO2 removed by all the vegetation in the UK. Essentially, almost ruling out the role that vegetation plays in removing greenhouse gases produced by the UK."
+        ]
+      },
+      {
+        "subheading": "Is there anything I can do?",
+        "body": [
+          "So, the UK faces a real challenge to reach net zero by 2050. It will require a major move away from fossil fuels towards renewables and natural gas and strict policy. Therefore, it’s essential that as voters we ensure government accountability and put continued pressure to reach this target. However, we can also all play our part. As renters, we don’t have the ability to stick some solar panels on our roof – however, we can still run our homes with renewables. There are so many renewable energy companies out there, and many of them charge you less for the energy they supply than those who source their energy from fossil fuels. The link below will give you an insight into the many options out there. Just pop your landlord/lady/ estate agents and email and switch today. Many of the companies handle the switch for you, so it won’t take long – and you’ll be one step closer to making your own life, and the UK, a bit more carbon neutral.",
+          " *(CO2e or Carbon Dioxide equivalent means the impact of all greenhouse gases, in their equivalent potency compared to carbon dioxide.  So - the equivalent amount of CO2 needed to create the same amount of warming produced by other greenhouse gases, like methane or nitrous oxide. This way, you can discuss all greenhouse gases with only one number. If you’re still confused, check out this Guardian article: https://www.theguardian.com/environment/2011/apr/27/co2e-global-warming-potential)"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "name": "Stark et al., (2019) ‘reducing UK emissions: 2019 progress report to parliament’ Committee on Climate Change.",
+        "locatedAt": "https://www.theccc.org.uk/publication/net-zero-the-uks-contribution-to-stopping-global-warming/"
+      },
+      {
+        "name": "Ainslie, D. and Clarke, H. “Net Zero and the different measures of UKs greenhouse gas emissions”. Office for National Statistics. 24 July 2019.",
+        "locatedAt": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/netzeroandthedifferentofficialmeasuresoftheuksgreenhousegasemissions/2019-07-24"
+      }
+    ],
+    "colour": "#0cf0eb",
+    "backgroundImage": "https://images.unsplash.com/photo-1578604665675-9aee692f6ddc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1103&q=80"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Feedback",
+    "summary": "What's climatic feeback and how does it work?",
+    "tags": ["Alphabet", "Climate-Science"],
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/106361054_305023433970031_6746607728789359871_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=gvAlCsK4qWEAX9ALMCa&oh=c830eee0ebcb2936b033f3f9c58d1c12&oe=5F3B73CA",
+    "homeIndex": "6",
+    "sections": [
+      {
+        "subheading": "What is climate feedback?",
+        "body": [
+          "Climatic feedback loops are aspects of the climate which can enhance or diminish climate change effects. These are either positive or negative. Negative feedback destabilises and will diminish effects of climate warming, whereas positive feedback creates loops which enhance warming processes."
+        ]
+      },
+      {
+        "subheading": "For example…",
+        "body": [
+          "As more greenhouse gases are produced, more heat is trapped in our atmosphere. Warmer temperatures result in more evaporation within the water cycle, resulting in higher percentages of water vapour in the air. Water vapour traps more heat, which leads to more evaporation, which leads to more water vapour… you get the idea."
+        ]
+      },
+      {
+        "subheading": "What’s happening in the Arctic?",
+        "body": [
+          "As temperatures increase, permafrost in the arctic circle is melting. This is revealing organic material that has been trapped for centuries – since the last glacial period. Without the ice conserving it, these materials decompose producing large quantities of methane. Methane is much more effective at trapping heat than CO2. Over a period of 20 years, it will be 80x more potent. ",
+          "Parts of Russia – in particular Siberia - are experiencing temperatures +20-25oC hotter than usual. On June 20th, 2020,  temperatures in Verkhoyansk, Siberia soared to 38oC. Average temperatures this time of year are around 0oC."
+        ]
+      },
+      {
+        "subheading": "Are we reaching a tipping point?",
+        "body": [
+          "Such heat will have a lasting impact on the Arctic’s permafrost and sea ice. These positive feedback loops have resulted in the tipping point theory, an idea that we may soon reach ‘runaway global warming’, where temperatures accelerate at a rate too fast for effective mitigation and reduction."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "The study of earth as an integrated system",
+        "locatedAt": "https://climate.nasa.gov/nasa_science/science/"
+      },
+      {
+        "name": "Climate change and the permafrost carbon feedback",
+        "locatedAt": "https://www.nature.com/articles/nature14338"
+      },
+      {
+        "name": "Climate Crisis: Alarm at record-breaking heatwave in Siberia",
+        "locatedAt": "https://www.theguardian.com/environment/2020/jun/17/climate-crisis-alarm-at-record-breaking-heatwave-in-siberia"
+      }
+    ],
+    "colour": "#0cf0eb",
+    "backgroundImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1140&q=80"
   }
 ]

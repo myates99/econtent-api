@@ -23,6 +23,9 @@ requestArticle.onreadystatechange = function () {
     // Get element
     var element = data.data;
 
+    console.log(element.colour);
+    document.body.style.background = element.colour;
+
     var newText = document.createTextNode(element.name);
     title.appendChild(newText);
 
@@ -52,7 +55,7 @@ requestArticle.onreadystatechange = function () {
     newSpan.classList.add('image');
     newSpan.classList.add('featured');
     var newImg = document.createElement('img');
-    newImg.setAttribute('src', 'images/display.jpg');
+    newImg.setAttribute('src', element.backgroundImage);
     newImg.setAttribute('alt', '');
     newSpan.appendChild(newImg);
 
