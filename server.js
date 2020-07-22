@@ -56,11 +56,11 @@ let options = {
   etag: true,
   extentions: ['htm', 'html'],
   index: false,
-  maxAge: 86400000,
   redirect: false,
   setHeaders: function (res, path, stat) {
     res.set({
-      'x-timestamp': Date.now()
+      'x-timestamp': Date.now(),
+      'Cache-Control': 'public, maxAge: 86400000'
     });
   }
 };
