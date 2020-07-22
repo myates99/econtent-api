@@ -79,7 +79,7 @@ requestArticle.onreadystatechange = function () {
 
     // Set up Simliar articles query
     // Create query string
-    let queryStr = 'https://econtent.org.uk/api/v1/articles?limit=9';
+    let queryStr = 'https://econtent.org.uk/api/v1/articles?limit=6';
 
     let tags = element.tags;
 

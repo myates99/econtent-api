@@ -102,7 +102,7 @@
     "name": "Albedo Effect",
     "summary": "What's the Albedo effect and how does it contribute to climate change?",
     "tags": ["Alphabet", "Climate-Science"],
-    "instagramLink": "CCBMuKjHvp1",
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/110523474_955938114869174_5840651775496445087_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=102&_nc_ohc=XtW8rG5i0mQAX-FXQx_&oh=501017c104c8bca6888ee91b7bf6c2e9&oe=5F4061C0",
     "homeIndex": "1",
     "sections": [
       {
@@ -235,5 +235,561 @@
     ],
     "colour": "#0cf0eb",
     "backgroundImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1140&q=80"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Water",
+    "summary": "Water and the continual global threat associated with it.",
+    "tags": ["Alphabet", "Waste", "Climate-Science", "Politics", "Water"],
+    "instagramLink": "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-15/e35/96378628_273134163864339_706673121124989529_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_cat=103&_nc_ohc=AhpTHy4rzlQAX9L70Ej&oh=010781abc8ea23479853bae095c27060&oe=5F3BFF40",
+    "homeIndex": "23",
+    "sections": [
+      {
+        "subheading": "Water and the continual threat associated with it",
+        "body": [
+          "Whilst water is a vital human resource used daily, less than 1% of the Earth's water supply is suitable for human consumption. This leaves 20% of the planets population (1.52 billion people) walking an average of 3.5 miles a day to get water.",
+          "Differences in demand, accessibility, and availability between countries creates disproportion in water quantities between groups of people leading to:",
+          "Water scarcity: The lack of freshwater resources to meet global demand"
+        ]
+      },
+      {
+        "subheading": "What causes water disparity?",
+        "body": [
+          "Precipitation differences between countries and regions- Some have greater water availability than others due to annual precipitation, and droughts. For example, Uganda has the lowest access to clean water close to home with 38% access.",
+          "Gap in access between the richest and poorest- In Niger, 4.1% of the poorest people have access to water, which rises to 72% for the wealthiest.",
+          "Infrastructure- A lack of closed water systems means access to clean, contamination-free water is low. Approximately 300,000 children under 5 die from dirty water and poor hygine related illnesses every year."
+        ]
+      },
+      {
+        "subheading": "Water poverty in the UK",
+        "body": [
+          "Whilst water poverty is common in developing countries, 14.6% of the UK also experiences this issue.",
+          "The water poverty rate is double the average for: -Single pensioners -Unemployed households -The lowest income earners (bottom quintile)",
+          "Consequences for those in water poverty- Climare change and increased demand has caused water bills to become more expensive. This increases the number of households in water poverty and puts people at risk of getting into debt and being taken to court over underpayments. However, it is illegal for water companies to cut supplies off"
+        ]
+      },
+      {
+        "subheading": "What can you do to help?",
+        "body": [
+          "Save water and support charities helping to tackle water issues",
+          "- Monitor your water usage to check for leaks- if usage is higher than usual without good reason you most likely have a leak. Fixing this can save up to 11,000 litres of water as well as reducing your wastr bill. In most cases this is the landlords responsbility.",
+          "- Install a Tap Aerator- these are inexpensive attachments that can be placed on taps to save up to 80% of water.",
+          "Support charities such as Water Aid and Oxfam to help those less fortunate. This support can be through raising awareness, donations, or fundraising."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "Lawrence, P.R., Meight, J. and Sullivan, C., 2002. The water poverty index: an international comparison. Keele, Staffordshire. UK: Department of Economics, Keele University",
+        "locatedAt": "tps://www.wateraid.org/uk/the-crisis/tackling-inequality"
+      },
+      {
+        "name": "ukdataservice",
+        "locatedAt": "https://www.ukdataservice.ac.uk/media/440344/snell.pdf"
+      }
+    ],
+    "colour": "#3f638a",
+    "backgroundImage": "https://econtent.org.uk/images/display.jpg"
+  },
+  {
+    "name": "Kyoto Protocol",
+    "summary": "What was the Kyoto Protocol and how successful has it been?",
+    "tags": ["Alphabet", "Energy", "Climate-Science", "Politics"],
+    "instagramLink": "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-15/e35/103433210_1808950669256852_696651287079263072_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_cat=108&_nc_ohc=j9f0v7iA9hMAX8JXlnf&oh=dfb6ec7a2e89f738f7b4fb525e404ca8&oe=5F42BD4A",
+    "homeIndex": "11",
+    "sections": [
+      {
+        "subheading": "What is the Kyoto Protocol?",
+        "body": [
+          "The Kyoto Protocol is an agreement through the United Nations Framework Convention on Climate Change (UNFCCC), agreed by countries at a summit in Kyoto in 1997.",
+          "It was the first such agreement between countries to reduce greenhouse gas emissions. It focused on the reduction of 6 key greenhouse gases.",
+          "Each country had a different 'assigned amount' by which they had to reduce their emissions, based on their current emissions level and level of economic development - so less developed countries were allowed more emissions to enable them to develop."
+        ]
+      },
+      {
+        "subheading": "What were the details?",
+        "body": [
+          "Each country's emissions target was calculated as a a reduction target from their 1990 emissions ('base level'), with the aim to make this reduction by 2012 (a date later extended). Across all nations participating this would equate to a 5.2% cut in emissions between 1990 and 2012.",
+          "As of 2013, 192 'parties' (or nations) had signed the Kyoto Protocol, though many of these had not ratified it (i.e. put it into policy) and not all who signed were assigned emissions targets."
+        ]
+      },
+      {
+        "subheading": "What are the drawbacks?",
+        "body": [
+          "The emissions included in each country's targets did not include international aviation or shipping - two huge causes of emissions.",
+          "Although legally binding, in reality there was little incentive for countries to comply. Many never ratified the agreement, including big emitters such as the USA, in part because they found it unfair that some other countries were not told to reduce their emissions.",
+          "It didn't come into force until 2005 - by which point major emitters such as China and India had emerged, who had not been factored in and given emissions targets."
+        ]
+      },
+      {
+        "subheading": "Did it work?",
+        "body": [
+          "In short, no! Emissions actually rose 40% globally over the 1990-2012 period - some countries met their targets but the increasing emissions of others wiped out this progress.",
+          "Since then, there have been multiple amendments, including:",
+          "2010 Cancun Amendments where 76 countries responsible for 85% of emissions signed voluntary pledges to cut emissions.",
+          "2012 Doha Amendments - an agreement to extend the protocol period from 2012 to 2020.",
+          "2015 Paris Agreement - this effectively replaced the Kyoto Protocol, with nearly every country agreeing to aim to keep global warming below 1.5 degrees celsius, or at least below 2 degrees."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "UNFCCC - Kyoto Protocol",
+        "locatedAt": "https://unfccc.int/process-and-meetings/the-kyoto-protocol/what-is-the-kyoto-protocol/kyoto-protocol-targets-for-the-first-commitment-period"
+      },
+      {
+        "name": "BBC - The Kyoto Protocol",
+        "locatedAt": "http://news.bbc.co.uk/1/hi/sci/tech/4269921.stm"
+      },
+      {
+        "name": "What is the Kyoto Protocol and has it made any difference? - The Guardian",
+        "locatedAt": "https://r.search.yahoo.com/_ylt=AwrJQ562AxZfFGwA.wQM34lQ;_ylu=X3oDMTByaW11dnNvBGNvbG8DaXIyBHBvcwMxBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1595307063/RO=10/RU=https%3a%2f%2fwww.theguardian.com%2fenvironment%2f2011%2fmar%2f11%2fkyoto-protocol/RK=2/RS=5xXqkELmmlrNAyqTMlPGbKQJ0yM-"
+      },
+      {
+        "name": "Kyoto first commitment period (2008-2012) - EU",
+        "locatedAt": "https://ec.europa.eu/clima/policies/strategies/progress/kyoto_1_en"
+      }
+    ],
+    "colour": "#3f638a",
+    "backgroundImage": "https://images.unsplash.com/photo-1483825366482-1265f6ea9bc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Politics",
+    "summary": "How can we influence politics to bring aboout climate change action?",
+    "tags": ["Alphabet", "Politics"],
+    "instagramLink": "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-15/e35/101359938_273906493794320_4738712946462701088_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_cat=108&_nc_ohc=vkquWbaFuCgAX8jPiur&oh=2f8be56ad2fd650628b88d6db157976e&oe=5F42261A",
+    "homeIndex": "16",
+    "sections": [
+      {
+        "subheading": "How can politics influence climate change?",
+        "body": [
+          "Politics can decide how climate change is prioritised (if at all!) by those with the power to make large-scale changes. Political decisions range from encouraging individual change through taxes or bans, to allocating budgets for climate change adaptation and mitigation.",
+          "In the UK, recent examples of policy change include a pledge for net zero by 2050 and a proposed ban on new petrol and diesel cars.",
+          "Politics is done on various levels, all of which you can influence by voting and other means."
+        ]
+      },
+      {
+        "subheading": "Local Politics",
+        "body": [
+          "Different councils have different powers, depending on if they are a county council, metropolitan borough council and so on. However generally they have power over recycling, local transport, housing, local economic strategy and much more.",
+          "Influencing council decisions can be done by asking them to declare a climate emergency (or how their actions are matching their declaration), through getting involved in planning consultations (ask how new housing is energy efficient or joins existing cycling networks) or through asking for food waste caddies to be standard in your area."
+        ]
+      },
+      {
+        "subheading": "Regional Politics",
+        "body": [
+          "Some decisions in the UK are devolved to Scottish and Welsh governments, while metropolitan mayors also have increased power such as London's Mayor having responsibility for Transport for London.",
+          "Environmental matters are devolved in some cases, so if you're in Wales or Scotland question your local representative about these issues. Mayor's usually hold a form of public questions - the State of London debate for example - where you can put questions directly to them, or get in touch with your local Assembly member."
+        ]
+      },
+      {
+        "subheading": "National Politics",
+        "body": [
+          "MPs have a vote in Parliament on policy regarding climate change, and your MP may sit on a committee or be a cabinet member who has more influence.",
+          "Write to your MP regarding an upcoming vote to ask them to vote a certain way - there are templates online. Or ask your MP to raise an early day motion or directly ask the PM a question at weekly PMQs. You can also sign petitions on the government website - they have to respond if they reach enough signatures."
+        ]
+      },
+      {
+        "subheading": "Informal Politics",
+        "body": [
+          "There are ways of influencing political decisions outside, or alongside, the formal settings of government.",
+          "For example, joining protests such as climate strikes can be really effective in showing politicians the support for a certain issue. You could also get involved with a lobbying group such as Greenpeace or Friends of the Earth, who lobby companies and governments for change. Such groups can be local, national or international, and many offer volunteering roles if you wanted to get more involved. You can also vote with your money, through choosing to buy or boycott products and companies that align or don't align with your ethical and environmental values."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "London Assembly - Questions to the Mayor",
+        "locatedAt": "https://www.london.gov.uk/about-us/london-assembly/questions-mayor"
+      },
+      {
+        "name": "A guide to devolution in the UK",
+        "locatedAt": "https://www.bbc.co.uk/news/uk-politics-35559447"
+      },
+      {
+        "name": "Campaigning: Early Day Motions",
+        "locatedAt": "https://r.search.yahoo.com/_ylt=AwrJS5XR_RVf_HEAQyYM34lQ;_ylu=X3oDMTByaW11dnNvBGNvbG8DaXIyBHBvcwMxBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1595305553/RO=10/RU=http%3a%2f%2fwww.w4mp.org%2flibrary%2fparliament-guides%2fhow-it-works%2fearly-day-motions%2f/RK=2/RS=u3Xi8Z69jSCSnnIjpvbjsyCQbjQ-"
+      },
+      {
+        "name": "Local Government Association - Climate Change",
+        "locatedAt": "https://www.local.gov.uk/our-support/climate-change"
+      },
+      {
+        "name": "UK Government Petitions",
+        "locatedAt": "https://petition.parliament.uk/petitions"
+      }
+    ],
+    "colour": "#dd186b",
+    "backgroundImage": "https://images.unsplash.com/photo-1449094013570-5fe3fa269b2e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Travel",
+    "summary": "How can we travel in a more climate-friendly way?",
+    "tags": ["Alphabet", "Transport"],
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/96863116_557324718495175_446411066146880463_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=0Fd-mCL7QTgAX80g2fw&oh=4980e14b6d92ed48776c688e84b286de&oe=5F416D92",
+    "homeIndex": "20",
+    "sections": [
+      {
+        "subheading": "How does travel affect climate change?",
+        "body": [
+          "Aviation accounts for at least 2% of global emissions, and this number is rising. Emissions caused by flight's are not usually counted in a country's emissions totals, as there is debate as to whether the emissions should count for the country of take off or landing. This means it can be difficult to monitor and account for emissions from flying accurately.",
+          "A flight causes 254g of emissions per kilometre per person - compared to only 6g for the Eurostar!",
+          "This is an unequal issue too, like much of climate change. Just 15% of people in the UK take 70% of flights, and a majority of the world's population has never flown. A return economy flight from London to New York emits as much as the average person in Ghana emits in a whole year."
+        ]
+      },
+      {
+        "subheading": "Where do I start with cutting down flights?",
+        "body": [
+          "Talk to your boss about the 'Climate Perks' scheme with Possible - it allows employees 2 extra days leave a year for travelling without flying.",
+          "Look at seat61.com for a great place to start planning travel - it offers information on how to get anywhere in Europe (and beyond) without flying.",
+          "Get a railcard to get a discount on trains for being 16-25, travelling as a couple or group and more."
+        ]
+      },
+      {
+        "subheading": "What if I need to fly?",
+        "body": [
+          "Cutting out flying altogether is unrealistic for many people, whether due to work, long distance relationships or family abroad. So when you do need to fly, try the following.",
+          "Fly economy - more people can be accommodated in economy than business or first class, reducing the number of flights needed.",
+          "Fly direct - most of a flight's emissions are in the take off and landing, so flying direct minimises this.",
+          "Fly less often - save up your holidays for one longer break and travel around on public transport once there, rather than several shorter holidays."
+        ]
+      },
+      {
+        "subheading": "What can be done alongside individual action?",
+        "body": [
+          "Here are some policies being discussed to reduce the number of flights taken and their impact:",
+          "Reducing the cost of public transport through subsidies to encourage the use of trains and buses over flying.",
+          "Requiring airlines to offset the carbon emissions of all their flights.",
+          "Introducing a frequent flyer levy - those who fly the most would face hefty taxes on their flights.",
+          "New technology such as biofuel or battery powered planes could be further developed."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "Frequent flyers could face extra tax under plans to cut emissions",
+        "locatedAt": "https://www.theguardian.com/uk-news/2019/sep/24/frequent-flyers-could-face-extra-tax-under-plans-to-cut-emissions"
+      },
+      {
+        "name": "Do 15% of people take 70% of flights?",
+        "locatedAt": "https://fullfact.org/economy/do-15-people-take-70-flights/"
+      },
+      {
+        "name": "Introduce frequent flyer levy to fight emissions, government tolf",
+        "locatedAt": "https://www.bbc.co.uk/news/business-49808258"
+      },
+      {
+        "name": "Climate change: should you fly, drive or take the train?",
+        "locatedAt": "https://www.bbc.co.uk/news/science-environment-49349566"
+      },
+      {
+        "name": "Employers ease flying guilt by awarding extra holiday time",
+        "locatedAt": "https://r.search.yahoo.com/_ylt=AwrP4lCp8BVfMDIAEgsM34lQ;_ylu=X3oDMTByaW11dnNvBGNvbG8DaXIyBHBvcwMxBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1595302186/RO=10/RU=https%3a%2f%2fwww.telegraph.co.uk%2fnews%2f2019%2f10%2f12%2femployers-ease-flying-guilt-awarding-extra-holiday-time-rail%2f/RK=2/RS=2V0SL5qG2UQmIMNTwktLXk2HdVc-"
+      }
+    ],
+    "colour": "#dd186b",
+    "backgroundImage": "https://images.unsplash.com/photo-1529905270444-b5e32acc3bdd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "*Urban",
+    "summary": "*How do urban areas impact on, and become impacted by, climate change?*",
+    "tags": ["Alphabet", "Transport"],
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/96290475_1180404025645828_3521500617176230601_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=104&_nc_ohc=gWrWesF4jGUAX_e2QED&oh=64328928b3b7d887c9fc09abaa1c73f2&oe=5F41AB83",
+    "homeIndex": "21",
+    "sections": [
+      {
+        "subheading": "How do urban areas link to climate change?",
+        "body": [
+          "By 2050, 68% of the world's population will live in urban areas. Despite occupying only 2% of the world's land mass, cities account for over 70% of the world's CO2 emissions.",
+          "*Urbanisation is seen as a sign of economic development - the same economic development which leads to increased environmental damage through higher levels of consumption and emissions."
+        ]
+      },
+      {
+        "subheading": "Why do cities contribute more to climate change?",
+        "body": [
+          "Cities tend to be the centre for emissions-intensive activity such as manufacturing, transport and commerce in a country. Cities also act as urban heat islands (or UHIs). Materials sich a concrete and asphalt - common in cities - absorb heat. As buildings are constructed at higher density in cities than elsewhere, these materials increase the temperature nearby - significantly enough to alter the local micro-climate. This means more energy is needed to cool these buildings, plus adds to the higher temperatures caused by global warming."
+        ]
+      },
+      {
+        "subheading": "Can urban areas and climate change interact positively?",
+        "body": [
+          "Urban areas tend to be the centre of research and innovation, including into climate change. City governments are also often able to implement changes outside of, or on top of, national policy, and implement change such as in eco-friendly housing or public transport initiatives, more quickly than national policy can change.",
+          "The higher density in urban areas can actually be beneficial - for example through reducing the amount of land used as more tower blocks are built, and through reducing the distance people have to commute and car usage, normally. Cities also tend to see more investment in such areas as transport, water and energy systems than rural areas, giving more scope for change."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "C40 Cities",
+        "locatedAt": "https://www.c40.org/why-cities"
+      },
+      {
+        "name": "World Urbanization Prospects",
+        "locatedAt": "https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html"
+      },
+      {
+        "name": "Planning Tank Sustainable Development",
+        "locatedAt": "https://planningtank.com/sustainable-development/urban-development-and-climate-change-relationship"
+      },
+      {
+        "name": "IPCC Report 2018 - Urban Areas",
+        "locatedAt": "https://www.ipcc.ch/site/assets/uploads/2018/02/WGIIAR5-Chap8_FINAL.pdf"
+      }
+    ],
+    "colour": "#ffdd33",
+    "backgroundImage": "https://images.unsplash.com/photo-1471039497385-b6d6ba609f9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Extinction Rebellion (XR)",
+    "summary": "Who are XR and what role have they played in tackling climate change?",
+    "tags": ["Alphabet", "Energy", "Climate-Science", "Politics"],
+    "instagramLink": "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-15/e35/95439011_156331449232940_1269366850545627402_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_cat=108&_nc_ohc=2hZzrlg0TycAX-aSxwe&oh=d6af013d334496cf0ee0079a84aaf00b&oe=5F433EDB",
+    "homeIndex": "24",
+    "sections": [
+      {
+        "subheading": "Who are XR?",
+        "body": [
+          "Extinction Rebellion are a global movement undertaking non-violent action to compel governments to act on climate change.",
+          "They have 3 main demands:",
+          "1. Tell the truth - declare climate and ecological emergency.",
+          "2. Act now - reach net zero carbon emissions by 2025 (take a look at Z for more on this!).",
+          "3. Act beyond politics - create and be led by the decisions of a Citizens Assembly"
+        ]
+      },
+      {
+        "subheading": "What has XR achieved so far?",
+        "body": [
+          "XR protests prompted the UK Government to declare a climate emergency in 2019.",
+          "The UK became the first major economy to pass a net zero emissions law.",
+          "The House of Commons has established a UK Climate Assembley. This brings together a group, who are representative of the UK population, to discuss and advise on policy relating to net zero."
+        ]
+      },
+      {
+        "subheading": "Scientists for XR",
+        "body": [
+          "Scientists for XR are a group of scientists who support the aims and actions of XR - their aim is to amplify information regarding the truth about the climate and ecological emergency.",
+          "Over 1000 scientists from all over the world have signed a declaration supporting civil disobedience protests to urge government action."
+        ]
+      },
+      {
+        "subheading": "How can you become an activist?",
+        "body": [
+          "Beginning your activism journey can be overwhelming - we understand that! Here are our top tips about where to start:",
+          "1. Do your research and find out what matters. For example, learn about the science behind climate change so you feel confident when involved in a conversation about it. Every little helps and clarity is always key.",
+          "2. Find (and join) your local action groups. XR are one of many communities coming together to tackle climate change and spark change",
+          "3. Always feel like you have something to offer - you don't need to do something big like civil disobedience to be an activist. Activism can also be everyday actions, such as: donating to a charity, supporting brands who challenge the status quo and talking to (and educating) your friends and family about important issues!"
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "Scientists for XR",
+        "locatedAt": "www.scientistsforxr.earth"
+      },
+      {
+        "name": "BBC: UK Parliament declares climate emergency",
+        "locatedAt": "https://www.bbc.co.uk/news/uk-politics-48126677"
+      },
+      {
+        "name": "Department for Business, Energy & Industrial Strategy: UK becomes first major economy to pass net zero emissions law",
+        "locatedAt": "https://www.gov.uk/government/news/uk-becomes-first-major-economy-to-pass-net-zero-emissions-law"
+      },
+      {
+        "name": "Climate Assembly UK",
+        "locatedAt": "www.climateassembly.uk"
+      }
+    ],
+    "colour": "#ffffff",
+    "backgroundImage": "https://images.unsplash.com/photo-1569000972021-812d8ccc324c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+  },
+  {
+    "name": "Health",
+    "summary": "How can acting on climate change improve our health?",
+    "tags": ["Alphabet", "Climate-Science", "Politics"],
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/105973370_2584719975125419_7915220153712399713_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=p6IB5EE5vcEAX9Ds1KL&oh=187b5950de25203e022c04b64cf25401&oe=5F402462",
+    "homeIndex": "8",
+    "sections": [
+      {
+        "subheading": "Health and climate change",
+        "body": [
+          "As you know, we face a choice between two pathways: business as usual, or turning the tide on climate change.",
+          "Climate change and human health are interconnected - trends in climate change impacts, exposures and vulnerabilities show an unacceptably high level of risk for current and future health of people all over the world.",
+          "However, if we choose a 'green future' we have the option to drastically increase the health of the planet and ourselves."
+        ]
+      },
+      {
+        "subheading": "Lack of progression theatens our personal health and healthcare systems",
+        "body": [
+          "Air pollution and aeroallergens contribute to respiratory diseases, cancers and risk of heart attack - this also causes global warming.",
+          "Hotter temperatures and changing rainfall patterns increase the incidence of illness being spread by food, water and insects.",
+          "Lower quality and quantity of water has knock on effects for food and therefore our nutrition.",
+          "Ongoing changes and severe impacts, combined with the socio-economic impacts of climate change, contribute to an increased risk of mental ill-health."
+        ]
+      },
+      {
+        "subheading": "Mitigating climate change has co-benefits for people and the planet",
+        "body": [
+          "Co-benefits arise from the changes in harmful exposure (e.g. reducing air pollution) and health-related behaviours from  actions.",
+          "The below interventions are some of many that have the potential to impact future sustainability of the planet, as well as improve health and wellbeing."
+        ]
+      },
+      {
+        "subheading": "Active Travel",
+        "body": [
+          "- Planet: Active travel helps to reduce air pollution from road transport, particularly passenger cars (61% of GHG from road transport across Europe).",
+          "- People: Active travel incorporates your daily exercise into your routine (making it a lot easier to get out of the way!!). Being active everyday can reduce the risk of: breast cancer, vascular dementia, heart disease and depression.",
+          "- Tip: Switching short car trips to walking or cycling is a great place to start!"
+        ]
+      },
+      {
+        "subheading": "Accessible Green Space",
+        "body": [
+          "- Planet: Green spaces improve air quality, particualrly in urban areas. They also provide huge benefits for biodiversity, such as increasing species populations.",
+          "- People: Green spaces provide areas to relax, excercise, learn and spend time with others. This improves wellbeing by enabling social integration, as well as improving your mood and reducing feelings of stress.",
+          "- Tip: Try eco-therapy activities such as: green exercise, gardening or nature crafts!"
+        ]
+      },
+      {
+        "subheading": "Sustainable Nutrition",
+        "body": [
+          "- Planet: Reducing your intake of animal products is perhaps the single biggest way to reduce your impact on the environment. Each day, a person who eats a vegan diet saves 1,100 gallons of water, 45 pounds of grain, 30sq ft of forested land and 20lbs CO2 equivalent.",
+          "- People: Cutting out animal products has a myriad of benefits - reducing your chance of heart disease, hypertension, type 2 diabetes and cancer.",
+          "- Tip: Try vegan food for one day, one week, one month or a lifetime! Go see the letter V"
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "Climate Health Emergency",
+        "locatedAt": "www.climatehealthemergency.org/about"
+      },
+      {
+        "name": "Public Health England: Climate Change and Public Health",
+        "locatedAt": "https://publichealthmatters.blog.gov.uk/2016/10/06/climate-change-and-public-health-a-challenge-and-an-opportunity/"
+      },
+      {
+        "name": "European Environment Agency: Greenhouse Gas Emissions from Transport in Europe",
+        "locatedAt": "https://www.eea.europa.eu/data-and-maps/indicators/transport-emissions-of-greenhouse-gases/transport-emissions-of-greenhouse-gases-12"
+      },
+      {
+        "name": "Department for Transport: Transport Statistics Great Britain",
+        "locatedAt": "https://www.gov.uk/government/statistics/transport-statistics-great-britain-2019"
+      },
+      {
+        "name": "Public Health England: Everybody Active, Everyday",
+        "locatedAt": "https://www.gov.uk/government/publications/everybody-active-every-day-a-framework-to-embed-physical-activity-into-daily-life"
+      },
+      {
+        "name": "Mind: Nature and Mental Health",
+        "locatedAt": "https://www.mind.org.uk/media-a/2931/nature-and-mental-health-2018.pdf"
+      },
+      {
+        "name": "Clark, M; Springmann, M; Hill, J; Tilman, D: Multiple Health and Environmental Impacts of Foods",
+        "locatedAt": "https://www.pnas.org/content/116/46/23357"
+      },
+      {
+        "name": "Our World in Data: Environmental Impacts of Food Production",
+        "locatedAt": "https://ourworldindata.org/environmental-impacts-of-food"
+      },
+      {
+        "name": "Scarborough, P et al: Dietary greenhouse gas emissions of meat-eaters, fish-eaters, vegetarians and vegans in the UK",
+        "locatedAt": "https://link.springer.com/article/10.1007/s10584-014-1169-1"
+      }
+    ],
+    "colour": "#ffffff",
+    "backgroundImage": "https://images.unsplash.com/photo-1528656707959-c9dc050e4841?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+  },
+  {
+    "name": "Energy",
+    "summary": "What are the different sources of energy? How do they help or hinder the climate crisis?",
+    "tags": ["Alphabet", "Climate-Science", "Energy"],
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/107210240_181168013369215_3131795256104087161_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=zQ5HdOuqu-wAX-8pAWa&oh=41a43dab42d3a564cf4b235d42194a1f&oe=5F409C62",
+    "homeIndex": "5",
+    "sections": [
+      {
+        "subheading": "What is Energy?",
+        "body": [
+          "Energy is power derived from using physical or chemical resources.",
+          "It helps us do all kinds of things by creating power for: light, heat, cars, machines, TVs and charging our phones.",
+          "We simply can't live without it!"
+        ]
+      },
+      {
+        "subheading": "How do energy sources generate power?",
+        "body": [
+          "1. First, take one source. This can be fossil fuel, nuclear, renewables, or biomass",
+          "2. Then, convert the source into energy",
+          "3. The reaction from this conversion makes a turbine move. This movement powers a generator.",
+          "4. Finally, the generator transfers it's power to the output (the thing it's providing power for like plugs in your home)."
+        ]
+      },
+      {
+        "subheading": "Fossil Fuels: Coal, Gas and Oil",
+        "body": [
+          "Fossil fuels are a source of non-renewable energy. They contribute the most to our energy production. Fossil fuels are derived from (yep - you guessed it!)... fossils! These fossils were formed from the remains of organisms that lived millions of years ago.",
+          "It's predicted that we'll run out of this source in around 50 years - and perhaps that's a good thing! When fossil fuels burn, they release carbon dioxide into the atmosphere, adding to the greenhouse effect and accelerating global warming. "
+        ]
+      },
+      {
+        "subheading": "Nuclear: Uranium and Plutonium",
+        "body": [
+          "Like fossil fuels, these are non-renewable sources. Sources of nuclear energy are more efficient than fossil fuels - 1kg of nuclear fuel produces millions of times more energy than 1kg of coal.",
+          "Most of the time, nuclear power is safe. However, if there is an accident, radioactive material can be released into the envrionment that can be hazardous to health for thousands of years. This is what happened in Chernobyl."
+        ]
+      },
+      {
+        "subheading": "Renewables: Wind, Solar and Hydro",
+        "body": [
+          "Renewable energy is derived from natural resouces that keep on giving: wind, the sun, and water. Renewable energy sources don't emit greenhouse gases that contribute to global warming.",
+          "This energy source has more benefits than just being green, too!",
+          "- It's a growing sector that creates jobs",
+          "- Makes electric grids more resilient",
+          "- Lowers energy bills for users",
+          "- Expands access to energy around the world"
+        ]
+      },
+      {
+        "subheading": "Biomass: Wood, Plants, Manure and Household Waste",
+        "body": [
+          "Biomass is a type of renewable energy source, generated from heating organic matter. We've used biomass energy since the earliest cave men made wood fires!",
+          "If you've got to this point, you might be thinking... better for the planet if we keep burning trees, plants and waste? We thought that too. You're absolutely right!",
+          "If Biomass is going to work, it requires a sustainable approach, meaning that the source is replaced after using:",
+          "- It can be carbon-neutral. We convert biomass into energy by burning it. This emits carbon dioxide into the atmosphere, like fossil fuels. However, trees and plants have the potential to capture the same amount of carbon dioxide emitted through photosynthesis.",
+          "- It hels us with waste management! When we use household waste as a biomass energy source, it avoids sitting in our bins and landfill. This plays a vital role in creating a circular economy of energy and waste."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "World Nuclear Association: Where does our electricity come from?",
+        "locatedAt": "https://www.world-nuclear.org/nuclear-essentials/where-does-our-electricity-come-from.aspx"
+      },
+      {
+        "name": "Conserve Energy Future: An Overview of Fossil Fuels",
+        "locatedAt": "https://www.conserve-energy-future.com/fossilfuels.php"
+      },
+      {
+        "name": "BBC Bitesize: Fossil Fuels and Nuclear Power",
+        "locatedAt": "https://www.bbc.co.uk/bitesize/guides/z2d2bk7/revision/1"
+      },
+      {
+        "name": "National Geographic: Renewable Energy, Explained",
+        "locatedAt": "https://www.nationalgeographic.com/environment/energy/reference/renewable-energy/"
+      },
+      {
+        "name": "National Geographic: Biomass Energy",
+        "locatedAt": "https://www.nationalgeographic.org/encyclopedia/biomass-energy/"
+      },
+      {
+        "name": "Energy Saving Trust: What role does Biomass have to Play in our Energy Supply?",
+        "locatedAt": "https://energysavingtrust.org.uk/blog/what-role-does-biomass-have-play-our-energy-supply"
+      },
+      {
+        "name": "US Energy Information Administration (EIA): Biomass Explained",
+        "locatedAt": "https://www.eia.gov/energyexplained/biomass/biomass-and-the-environment.php"
+      }
+    ],
+    "colour": "#ffffff",
+    "backgroundImage": "https://images.unsplash.com/photo-1586339393702-b1d274be5806?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
   }
 ]
