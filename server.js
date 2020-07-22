@@ -56,10 +56,12 @@ let options = {
   etag: true,
   extentions: ['htm', 'html'],
   index: false,
-  maxAge: '7d',
+  maxAge: 86400000,
   redirect: false,
   setHeaders: function (res, path, stat) {
-    res.set('X-RateLimit-Remaining', 100);
+    res.set({
+      'x-timestamp': Date.now()
+    });
   }
 };
 
