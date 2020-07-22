@@ -51,8 +51,20 @@ app.use(hpp());
 // Enable CORS
 app.use(cors());
 
+let options = {
+  dotfiles: 'ignore',
+  etag: true,
+  extentions: ['htm', 'html'],
+  index: false,
+  maxAge: '7d',
+  redirect: false,
+  setHeaders: function (res, path, stat) {
+    res.set('X-RateLimit-Remaining', 100);
+  }
+};
+
 // Set static folder
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'public'), options));
 
 // Mount routers
 app.use('/api/v1/articles', articles);
