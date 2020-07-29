@@ -23,16 +23,12 @@ requestArticle.onreadystatechange = function () {
     // Get element
     var element = data.data;
 
-    console.log(element.colour);
     document.body.style.background = element.colour;
 
     var newText = document.createTextNode(element.name);
     title.appendChild(newText);
 
-    // Create card
     var header = document.createElement('header');
-
-    DOMNode.appendChild(header);
 
     var newHeading = document.createElement('h2');
     newText = document.createTextNode(element.name);
@@ -45,6 +41,13 @@ requestArticle.onreadystatechange = function () {
     newPara.appendChild(newText);
 
     header.appendChild(newPara);
+    DOMNode.appendChild(header);
+
+    if (element.colour == '#dd186b' || element.colour == '#3f638a') {
+      header.style.color = '#ffffff';
+      newHeading.style.color = '#ffffff';
+      newPara.style.color = '#ffffff';
+    }
 
     var newContainer = document.createElement('div');
     newContainer.classList.add('box');
@@ -143,7 +146,7 @@ requestSimilar.onreadystatechange = function () {
 
         listItem.appendChild(newAnchor);
 
-        var newHeading = document.createElement('h2');
+        var newHeading = document.createElement('h3');
         var newText = document.createTextNode(element.name);
         newHeading.appendChild(newText);
 

@@ -17,16 +17,13 @@
   <body class="landing is-preload">
     <div id="page-wrapper">
       <!-- Banner -->
-      <section id="banner">
-        <h2>ECOntent</h2>
-        <p>Environmental Content</p>
-      </section>
+      <section id="banner"></section>
 
       <!-- Main -->
       <section id="main" class="container">
         <section class="box special">
           <header class="major">
-            <h2>
+            <h2 class="dark-text">
               Introducing the environmental alphabet
             </h2>
             <p>
@@ -6626,14 +6623,6 @@
         alignment: 'right'
       });
 
-      // NavPanel.
-      // Button.
-      $(
-        '<div id="navButton">' +
-          '<a href="#navPanel" class="toggle"></a>' +
-        '</div>'
-      ).appendTo($body);
-
       // Panel.
       $(
         '<div id="navPanel">' +
@@ -6712,7 +6701,7 @@
 
           listItem.appendChild(newAnchor);
 
-          var newHeading = document.createElement('h2');
+          var newHeading = document.createElement('h3');
           var newText = document.createTextNode(element.name);
           newHeading.appendChild(newText);
 

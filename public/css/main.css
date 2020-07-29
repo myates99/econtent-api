@@ -166,6 +166,14 @@ textarea {
 
 /* Basic */
 
+.dark-text {
+  color: black;
+}
+
+.light-text {
+  color: white;
+}
+
 @-ms-viewport {
   width: device-width;
 }
@@ -195,7 +203,7 @@ body,
 input,
 select,
 textarea {
-  color: #777;
+  color: #3b3b38;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 16pt;
   font-weight: 300;
@@ -239,7 +247,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #646464;
+  color: #16161d;
   font-weight: 300;
   line-height: 1em;
   margin: 0 0 0.5em 0;
@@ -256,13 +264,14 @@ h6 a {
 }
 
 h2 {
+  color: #646464;
   font-size: 2.25em;
   line-height: 1.5em;
   letter-spacing: -0.035em;
 }
 
 h3 {
-  font-size: 1.75em;
+  font-size: 2.25em;
   line-height: 1.5em;
   letter-spacing: -0.025em;
 }
@@ -2109,13 +2118,13 @@ header p {
 }
 
 header h2 + p {
-  font-size: 1.25em;
+  font-size: 1.5em;
   margin-top: -1em;
   line-height: 1.5em;
 }
 
 header h3 + p {
-  font-size: 1.1em;
+  font-size: 1.5em;
   margin-top: -0.85em;
   line-height: 1.5em;
 }
@@ -3036,11 +3045,11 @@ input[type='button']:disabled,
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cstyle%3Eline %7B stroke-width: 0.25px%3B stroke: %23ffffff%3B %7D%3C/style%3E%3Cline x1='0' y1='0' x2='100' y2='100' /%3E%3Cline x1='100' y1='0' x2='0' y2='100' /%3E%3C/svg%3E");
+  background-color: white;
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  opacity: 0.25;
+  opacity: 0;
   z-index: 2;
 }
 
@@ -3131,7 +3140,7 @@ body:not(.is-touch) .tiles article:hover .content {
 }
 
 * + .tiles {
-  margin-top: 2em;
+  margin-top: 1em;
 }
 
 body.is-preload .tiles article {
@@ -3206,7 +3215,7 @@ body.is-touch .tiles article .content {
 
 body.landing #page-wrapper {
   padding-top: 0;
-  background-color: #0cf0eb;
+  background-color: #3f638a;
 }
 
 @-moz-keyframes reveal-header {
@@ -3486,14 +3495,15 @@ body.landing #page-wrapper {
 /* Banner */
 
 #banner {
-  background-attachment: scroll, fixed;
+  background-attachment: fixed;
   background-color: #666;
-  background-image: url('images/overlay.png'), url('../../images/display.jpg');
-  background-position: top left, center center;
-  background-repeat: repeat, no-repeat;
-  background-size: auto, cover;
+  background-image: url('../../images/display.png');
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
   color: #fff;
-  padding: 12em 0 20em 0;
+  padding: 12em 0 26em 0;
   text-align: center;
 }
 
@@ -3556,7 +3566,7 @@ body.landing #page-wrapper {
 /* Main */
 
 #main {
-  padding: 4em 0;
+  padding: 2em 0;
 }
 
 #main > header {
@@ -3570,16 +3580,12 @@ body.landing #page-wrapper {
 }
 
 #main > header p {
-  border-top: solid 2px #e5e5e5;
+  border-top: solid 2px #777777;
   color: #777;
   display: inline-block;
   font-style: normal;
   margin: 1em 0 0 0;
   padding: 1em 0 1.25em 0;
-}
-
-body.landing #main {
-  margin-top: -14em;
 }
 
 /* Footer */
@@ -3714,7 +3720,7 @@ body.landing #main {
   /* Banner */
 
   #banner {
-    padding: 10em 0 18em 0;
+    padding: 25em 0 18em 0;
   }
 }
 
@@ -3739,6 +3745,7 @@ body.landing #main {
   /* Banner */
 
   #banner {
+    padding: 15em 0 18em 0;
     background-attachment: scroll;
   }
 
@@ -3757,6 +3764,12 @@ body.landing #main {
   select,
   textarea {
     font-size: 11pt;
+  }
+
+  /* Banner */
+
+  #banner {
+    padding: 15em 0 12em 0;
   }
 }
 
@@ -3836,6 +3849,11 @@ body.landing #main {
   }
 
   /* Banner */
+
+  #banner {
+    padding: 15em 0 6em 0;
+    background-attachment: scroll;
+  }
 
   /* Nav */
 
@@ -4013,7 +4031,7 @@ body.landing #main {
   }
 
   h2 {
-    font-size: 1.75em;
+    font-size: 5em;
     line-height: 1.35em;
     letter-spacing: -0.025em;
   }
@@ -4084,7 +4102,7 @@ body.landing #main {
   /* Banner */
 
   #banner {
-    padding: 4em 0;
+    padding: 4em 0 15em 0;
   }
 
   #banner h2 {
@@ -4228,7 +4246,7 @@ body.landing #main {
   /* Banner */
 
   #banner {
-    padding: 5em 3em 4em 3em;
+    padding: 8em 3em 4em 3em;
   }
 
   /* Main */
