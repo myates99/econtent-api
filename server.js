@@ -60,7 +60,9 @@ let options = {
   setHeaders: function (res, path, stat) {
     res.set({
       'x-timestamp': Date.now(),
-      'Cache-Control': 'public, maxAge: 86400000'
+      'Cache-Control': path.includes('index.html')
+        ? 'no-cache, maxAge: 3600'
+        : 'public, maxAge: 3600'
     });
   }
 };

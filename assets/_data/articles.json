@@ -10,7 +10,7 @@
       {
         "subheading": "How Does it Work?",
         "body": [
-          "Greenhouse gases in the Earth’s atmosphere regulate global temperatures. Sunlight is able to travel through our atmosphere freely and is either absorbed or reflected by the Earth*. Absorbed sunlight is transformed into heat, which forms longer-wave radiation and does not pass as freely through greenhouse gases. Instead, most of this heat is re-radiated and warms the Earth.(Check out A for more on this!)"
+          "Greenhouse gases in the Earth’s atmosphere regulate global temperatures. Sunlight is able to travel through our atmosphere freely and is either absorbed or reflected by the Earth. Absorbed sunlight is transformed into heat, which forms longer-wave radiation and does not pass as freely through greenhouse gases. Instead, most of this heat is re-radiated and warms the Earth.(Check out A for more on this!)"
         ]
       },
       {
@@ -32,7 +32,7 @@
         ]
       }
     ],
-    "Want to Fact Check?": [
+    "refrences": [
       {
         "name": "Hathaway, D., (2015) ‘The Solar Cycle’, Living Reviews Solar Physics.",
         "locatedAt": "https://link.springer.com/content/pdf/10.1007/lrsp-2"
@@ -46,15 +46,15 @@
         "locatedAt": "https://svs.gsfc.nasa.gov/20114"
       }
     ],
-    "colour": "#ffdd33",
-    "backgroundImage": "https://econtent.org.uk/images/display.jpg"
+    "colour": "#3f638a",
+    "backgroundImage": "https://images.unsplash.com/photo-1567597081373-7d8832f3a102?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=889&q=80"
   },
   {
     "user": "5d7a514b5d2c12c7449be042",
     "name": "Yearly Warming",
     "summary": "What is yearly warming, and how does this impact on humans?",
     "tags": ["Alphabet", "Energy", "Climate-Science"],
-    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/95264046_838782103294298_1597733386697505561_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=102&_nc_ohc=-_pS1jM8pPYAX9t-2y-&oh=0650b1bcd49c1ff400f2c0dc70b3eb17&oe=5F1D39D2",
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/95264046_838782103294298_1597733386697505561_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=102&_nc_ohc=JPSKwZ_T_A4AX8sXj6w&oh=a588e53182643c8a1a251b5e8a8495de&oe=5F4CAFD2",
     "homeIndex": "25",
     "sections": [
       {
@@ -84,10 +84,10 @@
         ]
       }
     ],
-    "Want to Fact Check?": [
+    "refrences": [
       {
         "name": "Visit www.gov.uk/guidance/climate-change-explained",
-        "locatedAt": "*Zhu, T., Jenkins, M.W. and Lund, J.R., 2005. Estimated imapcts of climate warming on California water availability under twelve future climate scenarios 1. JAWRA Journal of the American Water Resources Association, 41(5), pp1027-1038.*"
+        "locatedAt": "Zhu, T., Jenkins, M.W. and Lund, J.R., 2005. Estimated imapcts of climate warming on California water availability under twelve future climate scenarios 1. JAWRA Journal of the American Water Resources Association, 41(5), pp1027-1038."
       },
       {
         "name": "Visit ",
@@ -95,7 +95,7 @@
       }
     ],
     "colour": "#ffdd33",
-    "backgroundImage": "https://econtent.org.uk/images/display.jpg"
+    "backgroundImage": "https://images.unsplash.com/photo-1592439203466-60bb966c2d1e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
   },
   {
     "user": "5d7a514b5d2c12c7449be042",
@@ -137,7 +137,7 @@
         "locatedAt": "https://www.nature.com/articles/446133a"
       }
     ],
-    "colour": "#0cf0eb",
+    "colour": "#ffdd33",
     "backgroundImage": "https://images.unsplash.com/photo-1515133997814-e6460be24073?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"
   },
   {
@@ -289,7 +289,7 @@
       }
     ],
     "colour": "#3f638a",
-    "backgroundImage": "https://econtent.org.uk/images/display.jpg"
+    "backgroundImage": "https://images.unsplash.com/photo-1542340271-b88f5e78bebe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
   },
   {
     "user": "5d7a514b5d2c12c7449be042",
@@ -495,8 +495,8 @@
   },
   {
     "user": "5d7a514b5d2c12c7449be042",
-    "name": "*Urban",
-    "summary": "*How do urban areas impact on, and become impacted by, climate change?*",
+    "name": "Urban",
+    "summary": "How do urban areas impact on, and become impacted by, climate change?*",
     "tags": ["Alphabet", "Transport"],
     "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/96290475_1180404025645828_3521500617176230601_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=104&_nc_ohc=gWrWesF4jGUAX_e2QED&oh=64328928b3b7d887c9fc09abaa1c73f2&oe=5F41AB83",
     "homeIndex": "21",
@@ -604,7 +604,7 @@
         "locatedAt": "www.climateassembly.uk"
       }
     ],
-    "colour": "#ffffff",
+    "colour": "#dd186b",
     "backgroundImage": "https://images.unsplash.com/photo-1569000972021-812d8ccc324c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
   },
   {
@@ -702,7 +702,7 @@
         "locatedAt": "https://link.springer.com/article/10.1007/s10584-014-1169-1"
       }
     ],
-    "colour": "#ffffff",
+    "colour": "#dd186b",
     "backgroundImage": "https://images.unsplash.com/photo-1528656707959-c9dc050e4841?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
   },
   {
@@ -796,7 +796,637 @@
         "locatedAt": "https://www.eia.gov/energyexplained/biomass/biomass-and-the-environment.php"
       }
     ],
-    "colour": "#ffffff",
+    "colour": "#ffdd33",
     "backgroundImage": "https://images.unsplash.com/photo-1586339393702-b1d274be5806?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Oceans",
+    "summary": "How do the Oceans operate, and how is climate change affecting them?",
+    "tags": ["Alphabet", "Climate-Science", "Water"],
+    "instagramLink": "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-15/e35/101409836_1115463385518947_1861586905621897807_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_cat=111&_nc_ohc=AM9-Nt8QxR8AX982tH_&oh=2629dee1bb0454db7e356d4d145e45c4&oe=5F40E8A0",
+    "homeIndex": "15",
+    "sections": [
+      {
+        "subheading": "Oceans: Why are they important?",
+        "body": [
+          "Oceans are the largest ecosystems in the World, generating half of the oxygen we breathe",
+          "Over 3 billion people depend on marine and coastal biodiversity for their livelihoods and protein",
+          "Medicinal products come from the ocean that help to battle cancer, heart disease and Covid-19",
+          "Oceans absorb about 30% of carbon dioxide produced by humans. This helps to buffer the ongoing impacts of Global Warming",
+          "Ocean processes regulate the climate, mediate temperature and determine the weather"
+        ]
+      },
+      {
+        "subheading": "World Oceans Day",
+        "body": [
+          "UN World Oceans day is a celebration and reminder of the role that the oceans play in everyday life!",
+          "The Purpose of the day is to inform the public of the impact of human actions on the ocean, develop a worldwide movement of citizens for the ocean, and mobilize and unite the world's population on a project for the sustainable management of the world's oceans",
+          "The theme for 2020 was Innovation for a Sustainable Ocean, leading up to the UN's decade of Ocean Science which will run between 2021-2030"
+        ]
+      },
+      {
+        "subheading": "Ocean processes",
+        "body": [
+          "The Thermohaline Conveyor transports heat around the World helping to regulate the Earth's climate",
+          "The warm waters of the gulf stream flow across the Atlantic and heat parts of Northern Europe by up to 10c in the Winter months.",
+          "As the Gulf stream reaches the Arctic Ocean it cools and turns to flow south. However, this flow has weakened by 20% over the past 50 years.",
+          "Thermohaline circulation is driven by differences in slainity and temperature in water. This means continued Glacial melt could have adverse effects on this process, potentially plunging Western Europe into a colder climate."
+        ]
+      },
+      {
+        "subheading": "How Climate Change is affecting the oceans?",
+        "body": [
+          "Coral Bleaching- Many Coral Reefs, including the Great Barrier Reef are dying. Coral bleaching results in the shrinkage, starvation and eventual death of corals that support thousands of species",
+          "Wetlands- Rising sea levels are drowning wetlands that can not grow at a fast enough rate to stay above water.",
+          "Fish Stock- Reports suggest fish are moving towards the poles in response to increased ocean warming. This heavily impacts fisheries around the World and destroys ecosystems.",
+          "Acidification- the trends in ocean acidification are 30 times greater than natural variation. Ocean acidity affects many ocean species abilities to form shells."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "Marine Conservation",
+        "locatedAt": "https://marine-conservation.org/what-we-do/advocate/why-we-protect-our-oceans"
+      },
+      {
+        "name": "world wildlife",
+        "locatedAt": "https://www.worldwildlife.org/stories/how-climate-change-relates-to-oceans"
+      },
+      {
+        "name": "Environmental Defence Fund",
+        "locatedAt": "https://www.edf.org/blog/2013/10/08/5-ways-climate-change-affecting-our-oceans"
+      },
+      {
+        "name": "Thermohaline Circulation",
+        "locatedAt": "https://gpm.nasa.gov/education/videos/thermohaline-circulation-great-ocean-conveyor-belt"
+      },
+      {
+        "name": "Oceans Day",
+        "locatedAt": "https://www.un.org/en/observances/oceans-day"
+      },
+      {
+        "name": "Why Care about Oceans?",
+        "locatedAt": "https://oceanservice.noaa.gov/facts/why-care-about-ocean.html"
+      },
+      {
+        "name": "Why Oceans matter",
+        "locatedAt": "https://www.nationalgeographic.org/media/why-ocean-matters/"
+      }
+    ],
+    "colour": "#3f638a",
+    "backgroundImage": "https://images.unsplash.com/photo-1507295386538-ddd5e86cd597?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Burning",
+    "summary": "What is Burning and how does it affect the environment?",
+    "tags": ["Alphabet", "Energy", "Waste", "Climate-Science", "Politics"],
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/109577191_964335927312417_942625866893186456_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=109&_nc_ohc=bU94xRZqnhgAX-A-AYr&oh=ab3f0f5890ca5443af258cf230a35d42&oe=5F42C789",
+    "homeIndex": "2",
+    "sections": [
+      {
+        "subheading": "Burning: What is it?",
+        "body": [
+          "To undergo rapid combustion or consume fuel in such a way as to give off heat, gases, and, usually, light; be on fire.",
+          "A range of substances are burnt every day, such as wood, fossil fuels, vegetation, and plastics",
+          "Each one of these examples are having disastrous effects on the environment, wildlife, and our health."
+        ]
+      },
+      {
+        "subheading": "Agricultural Burning",
+        "body": [
+          "Farmers in many parts of the world set fire to cultivated fields to clear stubble, weeds and waste before sowing a new crop. Whilst this may be fast and economical, it also reduces the fertility of the soil and produces large quantities of black carbon.",
+          "Open burning accounts for more than a third of all black carbon emissions. Black carbon causes increased air pollution, climate change, and increased melting in the cryosphere.",
+          "Many of the fires witnessed in the Amazon rainforest are a result of this practice, something which is being actively encouraged by President Bolsonaro."
+        ]
+      },
+      {
+        "subheading": "Plastic Burning",
+        "body": [
+          "The burning of plastics releases toxic gases like dioxins, furans, mercury and BCPs into the atmosphere. This poses a threat to vegetation, animals, and human health.",
+          "Plastic waste burning increases the risk of heart disease, aggravates respiratory illnesses, such as asthma, and can damage the nervous system.",
+          "The burning of plastic waste has been proposed as an alternative to the burning of fossil fuels. However, this an extremely CO2 intensive process which is also less efficient."
+        ]
+      },
+      {
+        "subheading": "Fossil Fuels",
+        "body": [
+          "Non-renewable fuels, which include coal, oil, and natural gas, supply about 80 percent of the world’s energy.",
+          "Carbon dioxide emissions from burning coal account for 44 percent of the world total, and it's the biggest single source of the global temperature increase above pre-industrial levels.",
+          "Fossil Fuel extraction and burning have also led to a number of environemental disasters. These include; the Exxon Valdez spill in 1989 and the Deepwater Horizon disaster in 2010."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "https://www.ccacoalition.org/en/activity/open-agricultural-burning",
+        "locatedAt": "https://www.businessinsider.com/fires-in-the-amazon-rainforest-were-started-by-humans-2019-8?r=US&IR=T"
+      },
+      {
+        "name": "Plastic bag bans can help reduce toxic fumes",
+        "locatedAt": "https://www.unenvironment.org/news-and-stories/story/plastic-bag-bans-can-help-reduce-toxic-fumes"
+      },
+      {
+        "name": "Should we burn or bury waste plastic?",
+        "locatedAt": "https://www.bbc.co.uk/news/science-environment-43120041"
+      },
+      {
+        "name": "Fossil Fuels",
+        "locatedAt": "https://www.nationalgeographic.com/environment/energy/reference/fossil-fuels/"
+      }
+    ],
+    "colour": "#0cf0eb",
+    "backgroundImage": "https://images.unsplash.com/photo-1567140980243-5b02c9e1bfd8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Migration",
+    "summary": "How is Climate Change and Global Warming affecting Migratory patterns?",
+    "tags": ["Alphabet", "Climate-Science"],
+    "instagramLink": "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-15/e35/102635276_298567377865572_4504313307305546668_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_cat=100&_nc_ohc=ZudxkQvxoSQAX_oKDf1&oh=0d3c245f44e7672cddd9943b091c6add&oe=5F410A3B",
+    "homeIndex": "13",
+    "sections": [
+      {
+        "subheading": "Migration",
+        "body": [
+          "Migration is a strategy and behavioural adaption employed by a range of animals to help them survive.",
+          "These migrations can vary in distance with some species like the Atlantic Salmon travelling thousands of miles, whilst others, such as toads travel very short distances",
+          "Multiple factors can drive migration, including: movement to more hospitable climates when local conditions become unfavourable, and breeding."
+        ]
+      },
+      {
+        "subheading": "Why is it important?",
+        "body": [
+          "Migratory animals are essential components of the ecosystems that support life on Earth.",
+          "They act as pollinators and help to disperse seeds, which plays a vital role in maintaining ecosystem structure.",
+          "They provide a source of food for other animals and help to regulate the population of species in ecosystems.",
+          "Migratory species play a large role in how we measure time and experience seasons."
+        ]
+      },
+      {
+        "subheading": "How is Climate Change affecting migration?",
+        "body": [
+          "Land-based species are moving poleward by an average of 17km per decade, and marine species by 72km per decade",
+          "Climate Change is making areas more viable for certain species: Malaria, for example, now appears higher up mountain slopes in Colombia and Ethiopia, as mosquitoes are able to live at higher elevations",
+          "Migratory species are especially at risk due to Climate Change because the require a range of habitats. Often, one or more of these habitats are at risk. This means that many migratory species will need to quickly find ways to adapt or face extinction."
+        ]
+      },
+      {
+        "subheading": "Examples of Migratory Species",
+        "body": [
+          "Animals such as sea turtles, return to the same beach every year to lay their eggs.",
+          "Some crustaceans such as crabs migrate for breeding purposes. In many species, the females move to shallow coastal waters to mate and lay their eggs before they then return to deeper ocean waters.",
+          "The Whooping Crane breeds on the Canadian border before migrating 4,000 kilometres to Texas for the winter."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "Canadian Wildlife Federation",
+        "locatedAt": "https://cwf-fcf.org/en/resources/for-educators/resource-sheets/migratory-species.html"
+      },
+      {
+        "name": "Convention on the Conservation of Migratory Species of Wild Animals",
+        "locatedAt": "https://www.cms.int/sites/default/files/document/ScC14_Inf_09_Migratory_Species&Climate_Change_E_0.pdf"
+      },
+      {
+        "name": "Change in Migration will affect humans",
+        "locatedAt": "https://www.theguardian.com/environment/2017/mar/30/climate-change-global-reshuffle-of-wildlife-will-have-huge-impacts-on-humanity"
+      },
+      {
+        "name": "Climate Change and animal migration",
+        "locatedAt": "Moore, Thomas T. “CLIMATE CHANGE AND ANIMAL MIGRATION.” Environmental Law, vol. 41, no. 2, 2011, pp. 393–405. JSTOR, www.jstor.org/stable/43267496. Accessed 8 June 2020."
+      },
+      {
+        "name": "The value of animal migration",
+        "locatedAt": "https://www.cms.int/en/node/3912"
+      },
+      {
+        "name": "Collective animal migration",
+        "locatedAt": "Couzin, I.D., 2018. Collective animal migration. Current Biology, 28(17), pp.R976-R980."
+      },
+      {
+        "name": "How and why animals migrate",
+        "locatedAt": "https://nhpbs.org/natureworks/nwep4c.htm"
+      },
+      {
+        "name": "Great Migrations",
+        "locatedAt": "https://www.nationalgeographic.com/magazine/2010/11/great-migrations/"
+      },
+      {
+        "name": "Climate Change Species Migration Disease",
+        "locatedAt": "https://www.nationalgeographic.com/news/2017/04/climate-change-species-migration-disease/"
+      }
+    ],
+    "colour": "#ffdd33",
+    "backgroundImage": "https://images.unsplash.com/photo-1506766697591-f3d6c577ba86?ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Refugees",
+    "summary": "How is climate change contributing to a refugee crisis, and how can we support refugees",
+    "tags": ["Alphabet"],
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/98310370_840000383162173_3464394971185429327_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=101&_nc_ohc=gC0Bo3xTDjQAX-cT97m&oh=a6dd984b5af9add7d948a222c3281835&oe=5F414279",
+    "homeIndex": "18",
+    "sections": [
+      {
+        "subheading": "What is this problem?",
+        "body": [
+          "Global sea levels are set to rise by a minimum of 2.6 feet by 2100. This can and will leave many island and coastal populations (Particularly in the Less Economically Developed Countries) at risk of becoming climate refugees.",
+          "This is an imminent threat that could leave more than 140 million people displaced from their homes. This is compounded by the fact that the Met Office has seen an increase in Extreme Weather events in the last 40 years.",
+          "to add/remove paragraphs add/remove new sets of speech marks seperated by commas"
+        ]
+      },
+      {
+        "subheading": "Why is this important?",
+        "body": [
+          "Mass displacement, as highlighted by the ongoing European refugee crisis, causes: High levels of tension, places strain on welfare systems, and breaks apart communities that have existed for thousands of years.",
+          "People fleeing from the effects of climate change including; drought, flooding and desertification are not legally recognised as Refugees and do not have legal protection."
+        ]
+      },
+      {
+        "subheading": "Examples across the globe",
+        "body": [
+          "In 2015, the first application of refugee status in line with climatic impacts was made in New Zealand by the Teitota family from the island of Kiribati. Their case was ultimately dismissed.",
+          "The Federated states of Micronesia have seen a drastic reduction in size due to rising sea levels and have had their fresh water contaminated by sea water leaving people increasingly vulnerable. These island communities have small populations and due to their less-economically empowered position are struggling to get their voices heard.",
+          "Increased coastal flooding in Bangladesh is causing millions of people to relocate to slums in cities such as Dhaka, where they face poor sanitation, high crime rates and extreme poverty. It is predicted that by 2050, the number of Bangladeshiâ€™s displaced by Climate Change will be 13.3 million."
+        ]
+      },
+      {
+        "subheading": "What can you do to help?",
+        "body": [
+          "Raise awareness on social media by sharing posts from foundations such as Help Refugees/ Choose Love.",
+          "Sign petitions at https://petition.parliament.uk/ to ensure the government address this issue",
+          "Email Your MP! Find out who your MP is at: https://members.parliament.uk/FindYourMP"
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "visit",
+        "locatedAt": "https://www.worldbank.org/en/news/press-release/2018/03/19/climate-change-could-force-over-140-million-to-migrate-within-countries-by-2050-world-bank-report"
+      },
+      {
+        "name": "Podesta, J., (2019). The climate crisis, migration, and refugees [Online]. Brookings.",
+        "locatedAt": "https://www.brookings.edu/research/the-climate-crisis-migration-and-refugees/"
+      },
+      {
+        "name": "British Broadcasting Corporation News",
+        "locatedAt": "https://www.bbc.co.uk/news/world-asia-51179931"
+      },
+      {
+        "name": "Royal Society Journal",
+        "locatedAt": "https://royalsociety.org/topics-policy/projects/climate-change-evidence-causes/question-14/?gclid=CjwKCAjw7e_0BRB7EiwAlH-goP5i42bltozxNnSVltAmPJP75WGFovabzoVoavD2FZ8GkfZYy4Sr8hoC-9QQAvD_BwE"
+      },
+      {
+        "name": "McDonnell, T., (2019). Climate change creates a new migration crisis for Bangladesh [Online]. National Geographic.",
+        "locatedAt": "https://www.nationalgeographic.com/environment/2019/01/climate-change-drives-migration-crisis-in-bangladesh-from-dhaka-sundabans/"
+      }
+    ],
+    "colour": "#0cf0eb",
+    "backgroundImage": "https://images.unsplash.com/photo-1521050356706-046c65817940?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Sea Level Rise",
+    "summary": "What causes sea level rise and why is this a problem?",
+    "tags": ["Alphabet", "Climate-Science", "Politics", "Water"],
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/98149655_2640524726274406_3131646275754088649_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=110&_nc_ohc=Qr1YcYqdjMkAX8W-ylY&oh=0ae4fedbd4c131650fc35e8521a5ca50&oe=5F41D39A",
+    "homeIndex": "19",
+    "sections": [
+      {
+        "subheading": "Why is this a problem?",
+        "body": [
+          "- Global sea levels have risen by 8 inches since 1880.",
+          "Causes: Human activities producing greenhouse gas emissions (deforestation, petrol conumption, fossil fuel burning and agriculture)"
+        ]
+      },
+      {
+        "subheading": "The science behind this",
+        "body": [
+          "Thermal expansion: The greenhouse effect increases the temperature of sea water. Upon heating, water expands causing an increase in ocean volume and sea levels.",
+          "Increased melting of ice: Melting of ice (e.g. Greenland ice) from atmospheric warming increases the volume of water in the ocean."
+        ]
+      },
+      {
+        "subheading": "Impacts",
+        "body": [
+          "1) Permanant inundation- low lying coasts (e.g. Maldives) will become submerged",
+          "2) Contamination of drinking water- salt water breaches drinking supplies",
+          "3) Destabilization of the coastline = loss of beaches",
+          "4) Amplified storm surges = more destructive",
+          "5) Loss of habitat for fish and birds- potential death of coastal species"
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "Coatal Impacts",
+        "locatedAt": "FitzGerald, D. M., Fenster, M.S., Argow, B.A., & Buynevich, I.V. (2008), Coastal impacts due to sea-level rise. Annual Review of Earth and Planetary Sciences, 36"
+      },
+      {
+        "name": "Ice sheet contributions",
+        "locatedAt": "Bamber, J., Oppenheimer, M., Kopp, R., Aspinall, W., & Cooke, R. (2019). Ice sheet contributions to future sea-level rise from structured expert judgement. Proceedings of the National Academy of Sciences of the United States. 116(23), 11195-11200."
+      },
+      {
+        "name": "Changes in the tropics",
+        "locatedAt": "Webster PJ, Holland GJ, Curry JA, Chang HR. 2005. Changes in tropical cyclone number, duration, and intensity in a warming environment. Science 309: 1844-46"
+      }
+    ],
+    "colour": "#3f638a",
+    "backgroundImage": "https://images.unsplash.com/photo-1485617359743-4dc5d2e53c89?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "The IPCC",
+    "summary": "Who are the IPCC, and what predictions have they made?",
+    "tags": [
+      "Alphabet",
+      "Energy",
+      "Waste",
+      "Food",
+      "Transport",
+      "Climate-Science",
+      "Politics",
+      "Water"
+    ],
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/104832964_721281548652235_1698767700242325567_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=Bk5YJZxV3C0AX-H1KCr&oh=483519dd92132b27f9e58e2909b5a941&oe=5F40664F",
+    "homeIndex": "9",
+    "sections": [
+      {
+        "subheading": "Intergovernmental Panel on Climate Change (IPCC). Who are they?",
+        "body": [
+          "- A group of experts from around the world providing regular scientific assessments on climate change to policymakers.",
+          "- They display the potential future risks of climate change on the planet, suggesting a range of ways to adapt current behaviours in order to reduce these risks."
+        ]
+      },
+      {
+        "subheading": "How do they form these assessments?",
+        "body": [
+          "There are 3 working groups who make up the IPCC. Working group I: The Physical Science Basis of Climate Change. Working group II: Climare Change Impacts, Adaptation and Vulnerability. Working group III: Mitigation of climate change.",
+          "Process: Select working group authors - Assess literature - First draft - Expert review of first draft - Second order draft and Summary for Policymakers - Review - Final draft and government approval - Snthesis report created"
+        ]
+      },
+      {
+        "subheading": "2019 report summary",
+        "body": [
+          "- Limiting warming to 1.5'C instead of 2'C would have clear benefits to both people and the environment, however this would take unprecedented societal changes.",
+          "- By 2100 global sea level rise would be 10cm lower with 1.5'C warming compared to 2'C.",
+          "- Rather than a complete loss with a 2'C increase, coral reefs would decline by 70-90% with 1.5'C warming.",
+          "- A warming of greater than 1.5'C increases the risk of irreversable change (e.g. extinction of ecosystems).",
+          "- Keeping warming to 1.5'C allows ecosystems the chance to adapt to changes."
+        ]
+      },
+      {
+        "subheading": "What can you do to help?",
+        "body": [
+          "Stay educated and cut your carbon footprint!",
+          "- Cut your carbon footprint to help society stick to the 1.5'C of warming (see Y for more!)",
+          "- Stay up to date with future IPCC reports to show you how you can continue to help the climate crisis",
+          "- Raise awareness! Join environmental groups (see X for an example) to educate others on the climate crisis to unite society in the fight against climate change"
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "Energy Saving Trust",
+        "locatedAt": "https://energysavingtrust.org.uk/blog/climate-change-what-can-you-do-help"
+      },
+      {
+        "name": "IPCC, I.P.O.C.C., 2019. Special report on global warming of 1.5'C (SR15).",
+        "locatedAt": "https://www.ipcc.ch/"
+      }
+    ],
+    "colour": "#ffdd33",
+    "backgroundImage": "https://images.unsplash.com/photo-1590274853856-f22d5ee3d228?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Carbon Sink",
+    "summary": "What's a carbon sink and how do they work?",
+    "tags": ["Alphabet", "Energy", "Climate-Science"],
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/107412688_592636284725785_7463111829194028208_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=101&_nc_ohc=XUZdapvo6-sAX8gt4QL&oh=adf25eef345b7707201e5039fa940776&oe=5F4D0DD1",
+    "homeIndex": "3",
+    "sections": [
+      {
+        "subheading": "What is it?",
+        "body": [
+          "A carbon sink is anything that absorbs more carbon dioxide than it gives out. Carbon sinks are a crucial tool in the fight against climate change as they reduce the amount of carbon emissions in the atmosphere. This is known as carbon sequestration – the process of capturing and storing atmospheric carbon dioxide."
+        ]
+      },
+      {
+        "subheading": "What are some real life examples?",
+        "body": [
+          "Forests are one of the most well-known examples of a carbon sink: trees sequester carbon by capturing carbon dioxide from the atmosphere and transforming  it into biomass through photosynthesis. This is the main way carbon offsetting occurs: Carbon accumulates in the form of biomass, soils and deadwood. Whilst this is a brilliant natural phenomenon, increased deforestation leads to this stored carbon being released back into the atmosphere. This is one reason why deforestation is so bad for the planet, by turning a natural carbon sink into a source of additional emissions.",
+          "Our oceans are another vast carbon sink – the largest on earth. Staggeringly, the earth’s oceans have absorbed as much as 1/3rd of the CO2 that humans have produced since the start of the Industrial Revolution. This is all part of the carbon cycle, which affects how much carbon the ocean can absorb. Some scientists are finding that human-induced warming is affecting the rate at which carbon is absorbed."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "What is Carbon Sequestration?",
+        "locatedAt": "https://www.usgs.gov/faqs/what-carbon-sequestration?qt-news-science-products=&qt-news_science_products=0#qt-news_science_products"
+      },
+      {
+        "name": "Riebeek (2007) The Ocean's Carbon Balance",
+        "locatedAt": "https://earthobservatory.nasa.gov/features/OceanCarbon"
+      },
+      {
+        "name": "McSweeny (2017) Ocean Circulation Patterns and Carbon Sinks",
+        "locatedAt": "https://www.carbonbrief.org/scientists-solve-ocean-carbon-sink-puzzle"
+      },
+      {
+        "name": "Forests and Carbon Sequestration",
+        "locatedAt": "https://www.unece.org/forests/outlook/-carbonsinks.html"
+      }
+    ],
+    "colour": "#3f638a",
+    "backgroundImage": "https://images.unsplash.com/photo-1583668026649-b1bb52e13a00?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Diversity",
+    "summary": "Diversity and Intersectional Environmentalism, what's it all about?",
+    "tags": ["Alphabet", "Politics"],
+    "instagramLink": "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-15/e35/106711965_559859448018066_3295430699167750063_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_cat=106&_nc_ohc=eWnBz-oWQrMAX8C6ScZ&oh=be09aa27febc009300c6bf7855b4d946&oe=5F4EEAD1",
+    "homeIndex": "4",
+    "sections": [
+      {
+        "__comment8__": "Title of the section",
+        "subheading": "Diversity and Environmentalism",
+
+        "__comment9__": "Contents of the section which can be seperated into multiple paragraphs",
+        "body": [
+          "Intersectional environmentalism refers to the understanding that the injustices happening to the earth also have an overlapping social aspect. Diversity is a key issue in the environmental conversation as issues such as ethnic or racial marginalisation, gender discrimination and poverty all shape, or are shaped by, environmental justice. Indeed, research shows that climate change disproportionately affects ethnic and sexual minority groups and working-class people; yet the climate movement is often dominated by white, middle class individuals."
+        ]
+      },
+      {
+        "subheading": "Diversity within Sustainability",
+        "body": [
+          "According to GreenBiz, “bridging cultural liaisons aboard the corporate sustainability teams can help bridge gaps, broaden an organisation’s positive influence and reach, all while bringing in new perspectives and strategies.” In reality, the sustainability sector is lacking in diversity. In 2015, Craig Bennett as CEO of Friends of the Earth referred to the green movement as a “white, middle-class ghetto.” Research has also found that UK environmental professions are the least diverse."
+        ]
+      },
+      {
+        "subheading": "Inclusivity and Protest",
+        "body": [
+          "Many have criticised XR for being exclusive, as promoting civil disobedience and praising arrest shows a lack of sensitivity for groups who cannot afford to be arrested. This means groups with less privilege may feel excluded from the movement. On the other hand, the recent school strikes fronted by Greta Thunberg have been praised for their inclusivity, sensitive protest methods and for showcasing different voices."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "Futerra's 3 Step Guide to a More Diverse Green Movement",
+        "locatedAt": "https://www.wearefuterra.com/2019/06/3-step-guide-to-a-more-diverse-green-movement/"
+      },
+      {
+        "name": "Swaminathan (2017) The Unsustainable Whiteness of Green",
+        "locatedAt": "https://grist.org/feature/the-unsustainable-whiteness-of-green/"
+      },
+      {
+        "name": "Barclay (2017) The face of environmentalism isn’t so white anymore. That’ll define its success today.",
+        "locatedAt": "https://www.vox.com/science-and-health/2017/5/4/15486220/environmentalism-diversity-march"
+      },
+      {
+        "name": "Environmental Movement Lacking Diversity",
+        "locatedAt": "https://philanthropynewsdigest.org/news/environmental-movement-lacking-diversity-report-finds"
+      },
+      {
+        "name": "Sustainability Exchange Report on the Lack of Ethnic Diversity in Environmentalism",
+        "locatedAt": "https://www.sustainabilityexchange.ac.uk/research_on_lack_of_ethnic_diversity_on_sustain"
+      }
+    ],
+    "colour": "#dd186b",
+    "backgroundImage": "https://images.unsplash.com/photo-1571069095879-4b237957d59b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Justice & Climate Change",
+    "summary": "What are the social justice implications of climate change, and why do these matter?",
+    "tags": ["Alphabet", "Waste", "Politics"],
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/103664467_178986426907322_5443209037912137834_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=102&_nc_ohc=YvN5PBumHM8AX9JxCP1&oh=1c512c89f9f035bd72fece8bf5a177a3&oe=5F4E56C1",
+    "homeIndex": "10",
+    "sections": [
+      {
+        "subheading": "What is Environmental Justice?",
+        "body": [
+          "According to the often cited definition by the US Environmental Protection Agency, it is the ‘fair treatment and meaningful involvement of all people, regardless of race, colour, national origin or income, with respect to the development, implementation and enforcement of environmental laws, regulations and policies’."
+        ]
+      },
+      {
+        "subheading": "What kicked off the Environmental Justice Movement?",
+        "body": [
+          "Between the 1930s and 1978, 82% of all waste in Houston, Texas, was dumped in black neighbourhoods, even though only 25% of the local population was black. This was targeted and widespread practice in many areas. This case became the foundation for environmental social justice movements across the world, illuminating similar practices and injustices elsewhere."
+        ]
+      },
+      {
+        "subheading": "Climate Justice",
+        "body": [
+          "This involves seeing the ethical and civil rights side of climate change, rather than focusing on just the scientific, considering how the impacts of climate change are unequally distributed. The world’s poorest and most vulnerable communities are the most hit by the impacts of climate change, despite contributing the lowest levels of global emissions per capita.",
+          "Take Kiribati as an example. The capital city of this small island, where nearly half the country resides, will be 25%-80% flooded by 2050 unless significant adaptation is taken. This is a climate justice issue because the nation is amongst the lowest ranking carbon producers in the world, releasing 0.1MtCO2 each year."
+        ]
+      },
+      {
+        "subheading": "Unequal Ecological Exchange – What is it?",
+        "body": [
+          "A school of thought that focuses on the injustices incurred from the exporting of hazardous, polluting and environmentally damaging activities from developed countries to less developed countries. Research suggests that participation in international trade increases CO2 emissions in poorer countries while lowering them in wealthier ones due to the outsourcing of polluting industries, and the negative environmental impacts that come with it, to less developed countries. This has led to the idea that richer countries owe an ‘ecological debt’ to poorer nations in the form of local environmental damages resulting from producing energy-intensive goods for richer nations."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "Introduction to Ecologically Unequal Exchange in Comparative Perspective",
+        "locatedAt": "https://www.researchgate.net/publication/319071464_Introduction_to_Ecologically_Unequal_Exchange_in_Comparative_Perspective"
+      },
+      {
+        "name": "Global Inequality in Greenhouse Gas Production",
+        "locatedAt": "https://www.wri.org/blog/2020/02/greenhouse-gas-emissions-by-country-sector"
+      },
+      {
+        "name": "Geographies of Climate Justice",
+        "locatedAt": "https://www.mrfcj.org/pdf/Geography_of_Climate_Justice_Introductory_Resource.pdf"
+      },
+      {
+        "name": "Sustainable Development and Climate Justice",
+        "locatedAt": "https://www.un.org/sustainabledevelopment/blog/2019/05/climate-justice/"
+      },
+      {
+        "name": "Lakhani and Watts (2020) Environmental Justice means racial justice",
+        "locatedAt": "theguardian.com/environment/2020/jun/18/environmental-justice-means-racial-justice-say-activists"
+      },
+      {
+        "name": "Lakhani (2019) Racism Dictates Who Gets Dumped On",
+        "locatedAt": "https://www.theguardian.com/environment/2019/oct/21/what-is-environmental-injustice-and-why-is-the-guardian-covering-it"
+      },
+      {
+        "name": "Ramirez-Andreotta (2019) What is Environmental Justice?",
+        "locatedAt": "https://www.sciencedirect.com/topics/earth-and-planetary-sciences/environmental-justice"
+      }
+    ],
+    "colour": "#0cf0eb",
+    "backgroundImage": "https://images.unsplash.com/photo-1579447167502-9b1994c4e8d0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Veganism",
+    "summary": "Does veganism actually benefit the planet?",
+    "tags": ["Alphabet", "Food", "Waste"],
+    "instagramLink": "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-15/e35/95894920_245428643482448_5606201934008447212_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_cat=108&_nc_ohc=b6eAj5KysPIAX82_bJh&oh=6eb698469c4290e18028c71bf9961240&oe=5F4F92EF",
+    "homeIndex": "22",
+    "sections": [
+      {
+        "subheading": "What is Veganism and How Does it Relate to Climate Change?",
+        "body": [
+          "Veganism is a lifestyle that excludes, as far as possible, all forms of animal products for food, clothing or any other purposes . The lifestyle, with its roots in ethics and environmentalism, has increased in its uptake significantly in recent years, concurrently with a shift towards more environmental consciousness among popular culture.",
+          " There’s no better time to parade the benefits of a vegan diet: alongside with the ticking time-bomb that is global warming with its myriad socio-ecological impacts, veganism highlights the importance of our exploitative relationship with nature and the role this plays in the spread of disease (SARS, Ebola and most likely COVID-19 are just the recent ones) . That’s why we’ve broken down the key facts surrounding veganism and the environment, as well as providing you with actionable recommendations to incorporate veganism into your life."
+        ]
+      },
+      {
+        "subheading": "Animal Agriculture and Greenhouse Gases",
+        "body": [
+          "Did you know that greenhouse gas emissions from animal agriculture rank higher than all transport-related emissions worldwide? That’s more than all the planes, buses, cars, lorries and trains combined. The livestock sector represents nearly 20% of global annual greenhouse gas emissions (in Co2 equivalent), and is responsible for 65% of all human-related emissions of nitrous oxide – a greenhouse gas with 296 times the global warming potential of carbon dioxide.",
+          "Cows alone produce 150 billion gallons of methane per day – with methane possessing a global warming potential 86 times that of CO2 on a 20 year time frame. Moreover, livestock occupy over 30% of global arable land. Let us say that again. One-third of the earth’s surface is covered by animals grown for livestock. With this comes mass deforestation: our precious Amazon is just one of the victims; with 80% current deforestation providing space for cattle grazing."
+        ]
+      },
+      {
+        "Subheading": "What can you do about it?",
+        "body": [
+          "Going vegan might seem like a massive step that you're not ready for, or maybe you don't know where to start going green? So we've compiled a small guide to give you some asssitance!",
+          "1) Prepare yourself. Do your research. Make a list of essentials for your cupboard and fridge, ensuring you're getting a wide variety of nuts, gtains, fruit and vegetables and vitamins. Expand your knowledge. Read and watch documentaries (Cowspiracy, Gamechangers, Forks over Knives and What the Health are some gems on Netflix).",
+          "2) Realise that it's not a competition. For some, cutting out animal profucts is a big adjustment and it's important to remember that it will take time. You can start with cutting out a couple of things, leaving the hardest until last (for many this is cheese or chocolate!). That way, you can stagger the transition and ease yourself in.",
+          "3) Learn about substitutes. There's so much fun to be had in the kitchen cooking vehan food as you have to be much more creative with ingrefients: who knew you could make cheese sauces from cashews or egg replacements from chickpea water (aka aquafaba... Trust us)!",
+          "4) Get ready to read lots of labels! You would be surprised at the number of products milk can sneak into. But don't feel bad if you slip up. Remember that what you're doing is making a difference!",
+          "5) Finally, remember to have fun. Veganism is a lifestyle built off a sense of compassion for the earth, so remember to be compassionate to yourself too. It can be overwhelming sometimes, and you may wish you could do more. Remember that there are hundreds of thousands of others feeling the same around the world making an impact as a collective consumer. Try out the vegan calculator to quantify your impact!"
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "Boyle (2020) 'We should start thinking about the next one’: Coronavirus is just the first of many pandemics to come, environmentalists warn.",
+        "locatedAt": "https://www.independent.co.uk/environment/coronavirus-uk-pandemics-environmentalists-warning-a9413996.html"
+      },
+      {
+        "name": "Rome (2006) Food and Agricultural Organisation of the United Nations",
+        "locatedAt": "http://www.fao.org/3/a0701e/a0701e00.htm"
+      },
+      {
+        "name": "McSweeny (2017) Ocean Circulation Patterns and Carbon Sinks",
+        "locatedAt": "https://www.carbonbrief.org/scientists-solve-ocean-carbon-sink-puzzle"
+      },
+      {
+        "name": "Shindell et al., (2009) Improved Attribution of Climate Forcing to Emissions. Science. 326, 716",
+        "locatedAt": "https://science.sciencemag.org/content/326/5953/716.full"
+      },
+      {
+        "name": "Cattle Ranching in the Amazon Region",
+        "locatedAt": "https://globalforestatlas.yale.edu/amazon/land-use/cattle-ranching"
+      },
+      {
+        "name": "Have a go using the vegan calculator!",
+        "locatedAt": "http://thevegancalculator.com/#calculator"
+      }
+    ],
+    "colour": "#0cf0eb",
+    "backgroundImage": "https://images.unsplash.com/photo-1544352063-74aa5f9f8c59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
   }
 ]

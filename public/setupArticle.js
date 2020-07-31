@@ -80,6 +80,57 @@ requestArticle.onreadystatechange = function () {
       }
     }
 
+    newHeading = document.createElement('h3');
+    newText = document.createTextNode('Want to Fact Check?');
+    newHeading.appendChild(newText);
+
+    newContainer.appendChild(newHeading);
+
+    var URLpattern = new RegExp(
+      '^((ft|htt)ps?:\\/\\/)?' + // protocol
+      '((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.)+[a-z]{2,}|' + // domain name and extension
+      '((\\d{1,3}\\.){3}\\d{1,3}))' + // OR ip (v4) address
+      '(\\:\\d+)?' + // port
+      '(\\/[-a-z\\d%@_.~+&:]*)*' + // path
+      '(\\?[;&a-z\\d%@_.,~+&:=-]*)?' + // query string
+        '(\\#[-a-z\\d_]*)?$',
+      'i'
+    ); // fragment locator
+    console.log('hi');
+    for (var refrence in element.refrences) {
+      console.log('inside');
+      var ul = document.createElement('ul');
+      var li = document.createElement('li');
+      var name = document.createElement('span');
+      newText = document.createTextNode(
+        element.refrences[refrence].name + ': '
+      );
+      name.appendChild(newText);
+      li.appendChild(name);
+      ul.appendChild(li);
+
+      li = document.createElement('li');
+      console.log('start');
+      // If URL make hyperlink
+      if (URLpattern.test(element.refrences[refrence].locatedAt)) {
+        console.log('link added');
+        var newRef = document.createElement('a');
+        newRef.href = element.refrences[refrence].locatedAt;
+      } else {
+        console.log('book added');
+        var newRef = document.createElement('span');
+      }
+
+      console.log('done');
+      newText = document.createTextNode(element.refrences[refrence].locatedAt);
+      newRef.appendChild(newText);
+      li.appendChild(newRef);
+      ul.appendChild(li);
+
+      newContainer.appendChild(ul);
+    }
+    console.log('outside');
+
     // Set up Simliar articles query
     // Create query string
     let queryStr = 'https://econtent.org.uk/api/v1/articles?limit=6';

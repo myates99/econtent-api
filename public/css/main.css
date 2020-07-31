@@ -121,6 +121,7 @@ body {
 ol,
 ul {
   list-style: none;
+  list-style-type: none;
 }
 
 blockquote,
@@ -2584,9 +2585,8 @@ ol li {
 }
 
 ul {
-  list-style: disc;
+  list-style: none;
   margin: 0 0 2em 0;
-  padding-left: 1em;
 }
 
 ul li {
@@ -3392,7 +3392,7 @@ body.landing #page-wrapper {
   -webkit-animation: none;
   -ms-animation: none;
   animation: none;
-  background: none;
+  background-color: #2b2b2b;
   color: rgba(255, 255, 255, 0.75);
   position: absolute;
 }
@@ -3503,7 +3503,7 @@ body.landing #page-wrapper {
   background-size: cover;
   height: 100%;
   color: #fff;
-  padding: 12em 0 26em 0;
+  padding: 0 0 44em 0;
   text-align: center;
 }
 
@@ -3586,6 +3586,10 @@ body.landing #page-wrapper {
   font-style: normal;
   margin: 1em 0 0 0;
   padding: 1em 0 1.25em 0;
+}
+
+body.landing #main {
+  margin-top: -7em;
 }
 
 /* Footer */
@@ -3720,7 +3724,7 @@ body.landing #page-wrapper {
   /* Banner */
 
   #banner {
-    padding: 25em 0 18em 0;
+    padding: 0 0 48em 0;
   }
 }
 
@@ -3745,7 +3749,7 @@ body.landing #page-wrapper {
   /* Banner */
 
   #banner {
-    padding: 15em 0 18em 0;
+    padding: 0 0 38em 0;
     background-attachment: scroll;
   }
 
@@ -3769,7 +3773,7 @@ body.landing #page-wrapper {
   /* Banner */
 
   #banner {
-    padding: 15em 0 12em 0;
+    padding: 0 0 38em 0;
   }
 }
 
@@ -3851,7 +3855,7 @@ body.landing #page-wrapper {
   /* Banner */
 
   #banner {
-    padding: 15em 0 6em 0;
+    padding: 0 0 28em 0;
     background-attachment: scroll;
   }
 
@@ -4031,7 +4035,7 @@ body.landing #page-wrapper {
   }
 
   h2 {
-    font-size: 5em;
+    font-size: 2.5em;
     line-height: 1.35em;
     letter-spacing: -0.025em;
   }
@@ -4102,7 +4106,7 @@ body.landing #page-wrapper {
   /* Banner */
 
   #banner {
-    padding: 4em 0 15em 0;
+    padding: 0 0 19em 0;
   }
 
   #banner h2 {
@@ -4133,7 +4137,7 @@ body.landing #page-wrapper {
   }
 
   body.landing #main {
-    padding: 0;
+    padding: 0 0;
     margin-top: 0;
   }
 
@@ -4246,7 +4250,7 @@ body.landing #page-wrapper {
   /* Banner */
 
   #banner {
-    padding: 8em 3em 4em 3em;
+    padding: 0 0 14em 0;
   }
 
   /* Main */
