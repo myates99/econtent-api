@@ -4,7 +4,7 @@
     "name": "The Greenhouse Effect",
     "summary": "How does the greenhouse effect operate, and how have humans altered it?",
     "tags": ["Alphabet", "Energy", "Climate-Science"],
-    "instagramLink": "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-15/e35/106410031_561151354572293_6220319933507953660_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_cat=105&_nc_ohc=Rnwh5JirDYgAX8IS2SC&oh=3f9a1a2b1c54752152ce49b015db5542&oe=5F274230",
+    "instagramLink": "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-15/e35/106410031_561151354572293_6220319933507953660_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_cat=105&_nc_ohc=sHBD4iW5kWQAX_hszFw&oh=48df34bbdcca2583bea19b1f9d5ff2c8&oe=5F5AACB0",
     "homeIndex": "7",
     "sections": [
       {
@@ -47,7 +47,7 @@
       }
     ],
     "colour": "#3f638a",
-    "backgroundImage": "https://images.unsplash.com/photo-1567597081373-7d8832f3a102?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=889&q=80"
+    "backgroundImage": "https://images.unsplash.com/photo-1581626221838-9715c0e06049?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
   },
   {
     "user": "5d7a514b5d2c12c7449be042",
@@ -60,37 +60,30 @@
       {
         "subheading": "What this means?",
         "body": [
-          "Climate change has causes a shift in temperature, resulting in long-term temperature increases globally. Since the industrial revolution (mid-1800's), global temperatures have increased by an average of 1'C.",
-          "Why is this significant? To heat oceans, land masses, and the atmopshere by a degree, enormous amounts of heat are required. For example, a decrease in 1-2'C has previously caused a Little Ice Age in the UK. Main cause of warming: Greenhouse gas effect",
-          "to add/remove paragraphs add/remove new sets of speech marks seperated by commas"
+          "Global Warming has triggered exponential growth in global temperatures, resulting in long-term climatic changes. Since the industrial revolution (mid-1800's), global temperatures have increased by an average of 1'C. To the average person, the difference of one or two degrees might not seem that big of a deal. So why is this significant? To heat the oceans, land masses, and the atmopshere by even one degree centigrade, enormous amounts of heat are required, and the impact on global climates will be major. For example, a decrease in 1-2'C has previously caused a Little Ice Age in the UK. If global temperatures continue to rise by more than 1.5'c, we will see wide spread coral bleaching and the destruction fo the Great Barrier Reef. Current estimated global temperatures are 1.2'C above pre-industrial levels."
         ]
       },
       {
         "subheading": "Why is this an issue?",
         "body": [
-          "2/3 of warming has occured since 1970 due to increases in consumption, single use plastic and mass agriculture.",
-          "If these practices (business as usual) continue, a warming of 4.8'C could be seen in 100 years, exceeding the global maximum for dangerous levels of 2'C",
-          "However, fluctuations in temperatures between regions mean that this warming could be much greater in certain areas.",
-          "Causes of fluctuations- Time of day and seasons, changes in reflectivity of the Earth's surface (see G for more), changes in greenhouse gases within the atmopshere"
+          "Two thirds of warming has occured since the 1970s due to increases in consumption, single use plastic and mass agriculture. If these practices - defined as business as usual - continue, the IPCC predict that a warming of 4.8'C could be seen in 100 years, exceeding the global maximum for dangerous levels of 2'C. However, fluctuations in temperatures between regions mean that this warming could be much greater in certain areas. Climate relates to weather which is far more unpredictable and localised. Fluctuations can be impacted by the time of day and seasons, as well as changes in the reflectivity of the Earth's surface (see A and F for more on Albedo effect and climate feedback), and changes in the concentration of greenhouse gases within the atmopshere."
         ]
       },
       {
         "subheading": "What can you do to help?",
         "body": [
-          "Cut your carbon footprint to reduce the greenhouse gas effect which causes warming!",
-          "The main contributors to climate warming are buring fossil fuels, agriculture, and deforestation.",
-          "Try a meat-free day once a week, and always choose products grown and manufactured as close to home as possible to reduce transport miles.",
-          "Look into switching energy providers to renewable sources, and make sure to save energy by unplugging unused devices and turning lights off- this should save you some money too!"
+          "The main contributors to climate warming are burning fossil fuels, agriculture, and deforestation. While the largest corporations are responsible for the vast majority of greenhouse gases, individuals can make a difference by ensuring they move away from a consumption-heavy lifestyle and don't create additional demand for damaging practices. You could try going meat-free a few times a week, and choose products grown and manufactured as close to home as possible to reduce transport miles. Try buying second hand, websites such as Ebay or Depop allow you to find clothes from brands you're already familiar with, at a discounted price - just because they're pre-loved! Within your household, you can look into switching energy providers to renewable companies such as Bulb, Pure Planet or Octopus (there are so many to choose from!). You can save energy and reduce bills by unplugging unused devices and turning lights off - all of these options should save you some money too!",
+          "Whatever choices you make have the potential of creating a positive reaction chain and take demand away from harmful practices."
         ]
       }
     ],
     "refrences": [
       {
-        "name": "Visit www.gov.uk/guidance/climate-change-explained",
-        "locatedAt": "Zhu, T., Jenkins, M.W. and Lund, J.R., 2005. Estimated imapcts of climate warming on California water availability under twelve future climate scenarios 1. JAWRA Journal of the American Water Resources Association, 41(5), pp1027-1038."
+        "name": "Zhu, T., Jenkins, M.W. and Lund, J.R., 2005. Estimated imapcts of climate warming on California water availability under twelve future climate scenarios 1. JAWRA Journal of the American Water Resources Association, 41(5), pp1027-1038.",
+        "locatedAt": "www.gov.uk/guidance/climate-change-explained"
       },
       {
-        "name": "Visit ",
+        "name": "Climate change issues",
         "locatedAt": "www.un.org/en/sections/issues-depth/climate-change"
       }
     ],
@@ -149,10 +142,7 @@
     "homeIndex": "26",
     "sections": [
       {
-        "__comment8__": "Title of the section",
         "subheading": "What Does it Mean?",
-
-        "__comment9__": "Contents of the section which can be seperated into multiple paragraphs",
         "body": [
           "Net Zero describes a 100% reduction in CO2e* achieved when the same amount of CO2e produced by the UK is also being removed from the balance. So, it doesn’t mean no emissions at all, only that the UK will become carbon neutral. The amended national goal of a 100% reduction in CO2e by 2050 relevant to 1990 will require emissions to fall at an average rate of 15 MtCO2e per year, the equivalent to 3% of total emissions in 2018. But – how are our emissions measures?"
         ]
@@ -172,7 +162,7 @@
         ]
       }
     ],
-    "references": [
+    "refrences": [
       {
         "name": "Stark et al., (2019) ‘reducing UK emissions: 2019 progress report to parliament’ Committee on Climate Change.",
         "locatedAt": "https://www.theccc.org.uk/publication/net-zero-the-uks-contribution-to-stopping-global-warming/"
@@ -247,41 +237,32 @@
       {
         "subheading": "Water and the continual threat associated with it",
         "body": [
-          "Whilst water is a vital human resource used daily, less than 1% of the Earth's water supply is suitable for human consumption. This leaves 20% of the planets population (1.52 billion people) walking an average of 3.5 miles a day to get water.",
-          "Differences in demand, accessibility, and availability between countries creates disproportion in water quantities between groups of people leading to:",
-          "Water scarcity: The lack of freshwater resources to meet global demand"
+          "Water Scarcity describes the lack of freshwater resources to meet global demand. Whilst water is a vital human resource used daily, less than 1% of the Earth's water supply is suitable for human consumption. This leaves 20% of the planets population (1.52 billion people) walking an average of 3.5 miles a day to get water. Differences in demand, accessibility, and availability between countries creates disproportion in water quantities between groups of people and leads to water poverty."
         ]
       },
       {
         "subheading": "What causes water disparity?",
         "body": [
-          "Precipitation differences between countries and regions- Some have greater water availability than others due to annual precipitation, and droughts. For example, Uganda has the lowest access to clean water close to home with 38% access.",
-          "Gap in access between the richest and poorest- In Niger, 4.1% of the poorest people have access to water, which rises to 72% for the wealthiest.",
-          "Infrastructure- A lack of closed water systems means access to clean, contamination-free water is low. Approximately 300,000 children under 5 die from dirty water and poor hygine related illnesses every year."
+          "Precipitation differences between countries and regions is one reason for water disparity. For example, Uganda has the lowest access to clean water close to home with 38% access. In Niger, 4.1% of the poorest people have access to water, which rises to 72% for the wealthiest individuals. A lack of closed water systems means access to clean, contamination-free water is low. Approximately 300,000 children under 5 die from dirty water and poor-hygeine related illnesses every year."
         ]
       },
       {
         "subheading": "Water poverty in the UK",
         "body": [
-          "Whilst water poverty is common in developing countries, 14.6% of the UK also experiences this issue.",
-          "The water poverty rate is double the average for: -Single pensioners -Unemployed households -The lowest income earners (bottom quintile)",
-          "Consequences for those in water poverty- Climare change and increased demand has caused water bills to become more expensive. This increases the number of households in water poverty and puts people at risk of getting into debt and being taken to court over underpayments. However, it is illegal for water companies to cut supplies off"
+          "Whilst water poverty is more common in developing countries, 14.6% of the UK also experience this issue. The water poverty rate is double the average for single pensioners, unemployed households and those in the bottom quintile for income. Climate change creates increased resourced scarcity, and alongside increased demand this has caused water bills to become more expensive. This increases the number of households in water poverty and puts people at risk of getting into debt and being taken to court over underpayments. However, it is illegal for water companies to cut supplies off."
         ]
       },
       {
         "subheading": "What can you do to help?",
         "body": [
-          "Save water and support charities helping to tackle water issues",
-          "- Monitor your water usage to check for leaks- if usage is higher than usual without good reason you most likely have a leak. Fixing this can save up to 11,000 litres of water as well as reducing your wastr bill. In most cases this is the landlords responsbility.",
-          "- Install a Tap Aerator- these are inexpensive attachments that can be placed on taps to save up to 80% of water.",
-          "Support charities such as Water Aid and Oxfam to help those less fortunate. This support can be through raising awareness, donations, or fundraising."
+          "Save water and support charities helping to tackle water issues. Monitor your water usage to check for leaks - if usage is higher than usual without good reason you most likely have a leak. Fixing this can save up to 11,000 litres of water as well as reducing your wastr bill. In most cases this is the landlords responsbility if you are in rented accomodation. You can also install a tap aerator - these are inexpensive attachments that can be placed on taps to save up to 80% of water! You can also support charities such as Water Aid and Oxfam to help those less fortunate both in the UK and Global South. This support can be through raising awareness, donations, or even fundraising."
         ]
       }
     ],
     "refrences": [
       {
         "name": "Lawrence, P.R., Meight, J. and Sullivan, C., 2002. The water poverty index: an international comparison. Keele, Staffordshire. UK: Department of Economics, Keele University",
-        "locatedAt": "tps://www.wateraid.org/uk/the-crisis/tackling-inequality"
+        "locatedAt": "https://www.wateraid.org/uk/the-crisis/tackling-inequality"
       },
       {
         "name": "ukdataservice",
@@ -302,34 +283,28 @@
       {
         "subheading": "What is the Kyoto Protocol?",
         "body": [
-          "The Kyoto Protocol is an agreement through the United Nations Framework Convention on Climate Change (UNFCCC), agreed by countries at a summit in Kyoto in 1997.",
-          "It was the first such agreement between countries to reduce greenhouse gas emissions. It focused on the reduction of 6 key greenhouse gases.",
-          "Each country had a different 'assigned amount' by which they had to reduce their emissions, based on their current emissions level and level of economic development - so less developed countries were allowed more emissions to enable them to develop."
+          "The Kyoto Protocol is an agreement through the United Nations Framework Convention on Climate Change (UNFCCC), agreed by countries at a summit in Kyoto in 1997. It was the first such agreement between countries to reduce greenhouse gas emissions. It focused on the reduction of 6 key greenhouse gases. Each country had a different 'assigned amount' by which they had to reduce their emissions, based on their current emissions level and level of economic development - so less developed countries were allowed more emissions to enable them to develop."
         ]
       },
       {
         "subheading": "What were the details?",
         "body": [
-          "Each country's emissions target was calculated as a a reduction target from their 1990 emissions ('base level'), with the aim to make this reduction by 2012 (a date later extended). Across all nations participating this would equate to a 5.2% cut in emissions between 1990 and 2012.",
-          "As of 2013, 192 'parties' (or nations) had signed the Kyoto Protocol, though many of these had not ratified it (i.e. put it into policy) and not all who signed were assigned emissions targets."
+          "Each country's emissions target was calculated as a a reduction target from their 1990 emissions ('base level'), with the aim to make this reduction by 2012 (a date later extended). Across all nations participating this would equate to a 5.2% cut in emissions between 1990 and 2012. As of 2013, 192 'parties' (or nations) had signed the Kyoto Protocol, though many of these had not ratified it (i.e. put it into policy) and not all who signed were assigned emissions targets."
         ]
       },
       {
         "subheading": "What are the drawbacks?",
         "body": [
-          "The emissions included in each country's targets did not include international aviation or shipping - two huge causes of emissions.",
-          "Although legally binding, in reality there was little incentive for countries to comply. Many never ratified the agreement, including big emitters such as the USA, in part because they found it unfair that some other countries were not told to reduce their emissions.",
-          "It didn't come into force until 2005 - by which point major emitters such as China and India had emerged, who had not been factored in and given emissions targets."
+          "The emissions included in each country's targets did not include international aviation or shipping - two huge causes of emissions. Although legally binding, in reality there was little incentive for countries to comply. Many never ratified the agreement, including big emitters such as the USA, in part because they found it unfair that some other countries were not told to reduce their emissions. It didn't come into force until 2005 - by which point major emitters such as China and India had emerged, who had not been factored in and given emissions targets."
         ]
       },
       {
         "subheading": "Did it work?",
         "body": [
-          "In short, no! Emissions actually rose 40% globally over the 1990-2012 period - some countries met their targets but the increasing emissions of others wiped out this progress.",
-          "Since then, there have been multiple amendments, including:",
-          "2010 Cancun Amendments where 76 countries responsible for 85% of emissions signed voluntary pledges to cut emissions.",
-          "2012 Doha Amendments - an agreement to extend the protocol period from 2012 to 2020.",
-          "2015 Paris Agreement - this effectively replaced the Kyoto Protocol, with nearly every country agreeing to aim to keep global warming below 1.5 degrees celsius, or at least below 2 degrees."
+          "In short,  no! Emissions actually rose 40% globally over the 1990-2012 period - some countries met their targets but the increasing emissions of others wiped out this progress. Since then, there have been multiple amendments, including:",
+          "- The 2010 Cancun Amendments where 76 countries responsible for 85% of emissions signed voluntary pledges to cut emissions.",
+          "- The 2012 Doha Amendments - an agreement to extend the protocol period from 2012 to 2020.",
+          "- The 2015 Paris Agreement - this effectively replaced the Kyoto Protocol, with nearly every country agreeing to aim to keep global warming below 1.5 degrees celsius, or at least below 2 degrees."
         ]
       }
     ],
@@ -344,7 +319,7 @@
       },
       {
         "name": "What is the Kyoto Protocol and has it made any difference? - The Guardian",
-        "locatedAt": "https://r.search.yahoo.com/_ylt=AwrJQ562AxZfFGwA.wQM34lQ;_ylu=X3oDMTByaW11dnNvBGNvbG8DaXIyBHBvcwMxBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1595307063/RO=10/RU=https%3a%2f%2fwww.theguardian.com%2fenvironment%2f2011%2fmar%2f11%2fkyoto-protocol/RK=2/RS=5xXqkELmmlrNAyqTMlPGbKQJ0yM-"
+        "locatedAt": "https://www.theguardian.com/environment/2011/mar/11/kyoto-protocol"
       },
       {
         "name": "Kyoto first commitment period (2008-2012) - EU",
@@ -365,37 +340,31 @@
       {
         "subheading": "How can politics influence climate change?",
         "body": [
-          "Politics can decide how climate change is prioritised (if at all!) by those with the power to make large-scale changes. Political decisions range from encouraging individual change through taxes or bans, to allocating budgets for climate change adaptation and mitigation.",
-          "In the UK, recent examples of policy change include a pledge for net zero by 2050 and a proposed ban on new petrol and diesel cars.",
-          "Politics is done on various levels, all of which you can influence by voting and other means."
+          "Politics can decide how climate change is prioritised (if at all!) by those with the power to make large-scale changes. Political decisions range from encouraging individual change through taxes or bans, to allocating budgets for climate change adaptation and mitigation. In the UK, recent examples of policy change include a pledge for net zero by 2050 and a proposed ban on new petrol and diesel cars. Politics is done on various levels, all of which you can influence by voting and other means."
         ]
       },
       {
         "subheading": "Local Politics",
         "body": [
-          "Different councils have different powers, depending on if they are a county council, metropolitan borough council and so on. However generally they have power over recycling, local transport, housing, local economic strategy and much more.",
-          "Influencing council decisions can be done by asking them to declare a climate emergency (or how their actions are matching their declaration), through getting involved in planning consultations (ask how new housing is energy efficient or joins existing cycling networks) or through asking for food waste caddies to be standard in your area."
+          "Different councils have different powers, depending on if they are a county council, metropolitan borough council and so on. However generally they have power over recycling, local transport, housing, local economic strategy and much more. Influencing council decisions can be done by asking them to declare a climate emergency (or how their actions are matching their declaration), through getting involved in planning consultations (ask how new housing is energy efficient or joins existing cycling networks) or through asking for food waste caddies to be standard in your area."
         ]
       },
       {
         "subheading": "Regional Politics",
         "body": [
-          "Some decisions in the UK are devolved to Scottish and Welsh governments, while metropolitan mayors also have increased power such as London's Mayor having responsibility for Transport for London.",
-          "Environmental matters are devolved in some cases, so if you're in Wales or Scotland question your local representative about these issues. Mayor's usually hold a form of public questions - the State of London debate for example - where you can put questions directly to them, or get in touch with your local Assembly member."
+          "Some decisions in the UK are devolved to Scottish and Welsh governments, while metropolitan mayors also have increased power such as London's Mayor having responsibility for Transport for London. Environmental matters are devolved in some cases, so if you're in Wales or Scotland question your local representative about these issues. Mayor's usually hold a form of public questions - the State of London debate for example - where you can put questions directly to them, or get in touch with your local Assembly member."
         ]
       },
       {
         "subheading": "National Politics",
         "body": [
-          "MPs have a vote in Parliament on policy regarding climate change, and your MP may sit on a committee or be a cabinet member who has more influence.",
-          "Write to your MP regarding an upcoming vote to ask them to vote a certain way - there are templates online. Or ask your MP to raise an early day motion or directly ask the PM a question at weekly PMQs. You can also sign petitions on the government website - they have to respond if they reach enough signatures."
+          "MPs have a vote in Parliament on policy regarding climate change, and your MP may sit on a committee or be a cabinet member who has more influence. Write to your MP regarding an upcoming vote to ask them to vote a certain way - there are templates online. Or ask your MP to raise an early day motion or directly ask the PM a question at weekly PMQs. You can also sign petitions on the government website - they have to respond if they reach enough signatures."
         ]
       },
       {
         "subheading": "Informal Politics",
         "body": [
-          "There are ways of influencing political decisions outside, or alongside, the formal settings of government.",
-          "For example, joining protests such as climate strikes can be really effective in showing politicians the support for a certain issue. You could also get involved with a lobbying group such as Greenpeace or Friends of the Earth, who lobby companies and governments for change. Such groups can be local, national or international, and many offer volunteering roles if you wanted to get more involved. You can also vote with your money, through choosing to buy or boycott products and companies that align or don't align with your ethical and environmental values."
+          "There are ways of influencing political decisions outside, or alongside, the formal settings of government. For example, joining protests such as the 'Fridays for Future' Climate Strikes can be really effective in showing politicians how much support there is for a certain issue. You could also get involved with a lobbying group such as Greenpeace or Friends of the Earth, who lobby companies and governments for change. Such groups can be local, national or international, and many offer volunteering roles if you wanted to get more involved. You can also vote with your money, through choosing to buy or boycott products and companies that align or don't align with your ethical and environmental values (this is sometimes dubbed buycotting, because everyone loves a pun)."
         ]
       }
     ],
@@ -410,7 +379,7 @@
       },
       {
         "name": "Campaigning: Early Day Motions",
-        "locatedAt": "https://r.search.yahoo.com/_ylt=AwrJS5XR_RVf_HEAQyYM34lQ;_ylu=X3oDMTByaW11dnNvBGNvbG8DaXIyBHBvcwMxBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1595305553/RO=10/RU=http%3a%2f%2fwww.w4mp.org%2flibrary%2fparliament-guides%2fhow-it-works%2fearly-day-motions%2f/RK=2/RS=u3Xi8Z69jSCSnnIjpvbjsyCQbjQ-"
+        "locatedAt": "http://www.w4mp.org/library/parliament-guides/how-it-works/early-day-motions/"
       },
       {
         "name": "Local Government Association - Climate Change",
@@ -422,7 +391,7 @@
       }
     ],
     "colour": "#dd186b",
-    "backgroundImage": "https://images.unsplash.com/photo-1449094013570-5fe3fa269b2e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    "backgroundImage": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
   },
   {
     "user": "5d7a514b5d2c12c7449be042",
@@ -435,17 +404,13 @@
       {
         "subheading": "How does travel affect climate change?",
         "body": [
-          "Aviation accounts for at least 2% of global emissions, and this number is rising. Emissions caused by flight's are not usually counted in a country's emissions totals, as there is debate as to whether the emissions should count for the country of take off or landing. This means it can be difficult to monitor and account for emissions from flying accurately.",
-          "A flight causes 254g of emissions per kilometre per person - compared to only 6g for the Eurostar!",
-          "This is an unequal issue too, like much of climate change. Just 15% of people in the UK take 70% of flights, and a majority of the world's population has never flown. A return economy flight from London to New York emits as much as the average person in Ghana emits in a whole year."
+          "Aviation accounts for at least 2% of global emissions, and this number is rising. Emissions caused by flight's are not usually counted in a country's emissions totals, as there is debate as to whether the emissions should count for the country of take off or landing. This means it can be difficult to monitor and account for emissions from flying accurately. A flight causes 254g of emissions per kilometre per person - compared to only 6g for the Eurostar! This is an unequal issue too, like much of climate change. Just 15% of people in the UK take 70% of flights, and a majority of the world's population has never flown. A return economy flight from London to New York emits as much as the average person in Ghana emits in a whole year."
         ]
       },
       {
         "subheading": "Where do I start with cutting down flights?",
         "body": [
-          "Talk to your boss about the 'Climate Perks' scheme with Possible - it allows employees 2 extra days leave a year for travelling without flying.",
-          "Look at seat61.com for a great place to start planning travel - it offers information on how to get anywhere in Europe (and beyond) without flying.",
-          "Get a railcard to get a discount on trains for being 16-25, travelling as a couple or group and more."
+          "Talk to your boss about the 'Climate Perks' scheme with Possible - it allows employees 2 extra days leave a year for travelling without flying. Look at seat61.com for a great place to start planning travel - it offers information on how to get anywhere in Europe (and beyond) without flying. Look into railcards! You can get a discount on trains for being 16-25, travelling as a couple or group and more."
         ]
       },
       {
@@ -461,10 +426,10 @@
         "subheading": "What can be done alongside individual action?",
         "body": [
           "Here are some policies being discussed to reduce the number of flights taken and their impact:",
-          "Reducing the cost of public transport through subsidies to encourage the use of trains and buses over flying.",
-          "Requiring airlines to offset the carbon emissions of all their flights.",
-          "Introducing a frequent flyer levy - those who fly the most would face hefty taxes on their flights.",
-          "New technology such as biofuel or battery powered planes could be further developed."
+          " - Reducing the cost of public transport through subsidies to encourage the use of trains and buses over flying.",
+          " - Requiring airlines to offset the carbon emissions of all their flights.",
+          " - Introducing a frequent flyer levy - those who fly the most would face hefty taxes on their flights.",
+          " - New technology such as biofuel or battery powered planes could be further developed."
         ]
       }
     ],
@@ -487,7 +452,7 @@
       },
       {
         "name": "Employers ease flying guilt by awarding extra holiday time",
-        "locatedAt": "https://r.search.yahoo.com/_ylt=AwrP4lCp8BVfMDIAEgsM34lQ;_ylu=X3oDMTByaW11dnNvBGNvbG8DaXIyBHBvcwMxBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1595302186/RO=10/RU=https%3a%2f%2fwww.telegraph.co.uk%2fnews%2f2019%2f10%2f12%2femployers-ease-flying-guilt-awarding-extra-holiday-time-rail%2f/RK=2/RS=2V0SL5qG2UQmIMNTwktLXk2HdVc-"
+        "locatedAt": "https://www.telegraph.co.uk/news/2019/10/12/employers-ease-flying-guilt-awarding-extra-holiday-time-rail/"
       }
     ],
     "colour": "#dd186b",
@@ -496,7 +461,7 @@
   {
     "user": "5d7a514b5d2c12c7449be042",
     "name": "Urban",
-    "summary": "How do urban areas impact on, and become impacted by, climate change?*",
+    "summary": "How do urban areas impact on, and become impacted by, climate change?",
     "tags": ["Alphabet", "Transport"],
     "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/96290475_1180404025645828_3521500617176230601_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=104&_nc_ohc=gWrWesF4jGUAX_e2QED&oh=64328928b3b7d887c9fc09abaa1c73f2&oe=5F41AB83",
     "homeIndex": "21",
@@ -505,7 +470,7 @@
         "subheading": "How do urban areas link to climate change?",
         "body": [
           "By 2050, 68% of the world's population will live in urban areas. Despite occupying only 2% of the world's land mass, cities account for over 70% of the world's CO2 emissions.",
-          "*Urbanisation is seen as a sign of economic development - the same economic development which leads to increased environmental damage through higher levels of consumption and emissions."
+          "Urbanisation is seen as a sign of economic development - the same economic development which leads to increased environmental damage through higher levels of consumption and emissions."
         ]
       },
       {
@@ -612,55 +577,43 @@
     "name": "Health",
     "summary": "How can acting on climate change improve our health?",
     "tags": ["Alphabet", "Climate-Science", "Politics"],
-    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/105973370_2584719975125419_7915220153712399713_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=p6IB5EE5vcEAX9Ds1KL&oh=187b5950de25203e022c04b64cf25401&oe=5F402462",
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/105973370_2584719975125419_7915220153712399713_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=4qZGJMsJDBkAX-DHMhZ&oh=ffcf07936c4737c3d425ee193483ae49&oe=5F5BD3E2",
     "homeIndex": "8",
     "sections": [
       {
         "subheading": "Health and climate change",
         "body": [
-          "As you know, we face a choice between two pathways: business as usual, or turning the tide on climate change.",
-          "Climate change and human health are interconnected - trends in climate change impacts, exposures and vulnerabilities show an unacceptably high level of risk for current and future health of people all over the world.",
-          "However, if we choose a 'green future' we have the option to drastically increase the health of the planet and ourselves."
+          "As you know, we face a choice between two pathways: business as usual, or turning the tide on climate change. Climate change and human health are interconnected - trends in climate change impacts, exposures and vulnerabilities show an unacceptably high level of risk for current and future health of people all over the world. However, if we choose a greener future we have the option to drastically increase the health of the planet and ourselves."
         ]
       },
       {
         "subheading": "Lack of progression theatens our personal health and healthcare systems",
         "body": [
-          "Air pollution and aeroallergens contribute to respiratory diseases, cancers and risk of heart attack - this also causes global warming.",
-          "Hotter temperatures and changing rainfall patterns increase the incidence of illness being spread by food, water and insects.",
-          "Lower quality and quantity of water has knock on effects for food and therefore our nutrition.",
-          "Ongoing changes and severe impacts, combined with the socio-economic impacts of climate change, contribute to an increased risk of mental ill-health."
+          "Air pollution and aeroallergens contribute to respiratory diseases, cancers and risk of heart attack - this also causes global warming. Hotter temperatures and changing rainfall patterns increase the incidence of illness being spread by food, water and insects. Lower quality and quantity of water has knock on effects for food and therefore our nutrition. Ongoing changes and severe impacts, combined with the socio-economic impacts of climate change, contribute to an increased risk of mental ill-health."
         ]
       },
       {
         "subheading": "Mitigating climate change has co-benefits for people and the planet",
         "body": [
-          "Co-benefits arise from the changes in harmful exposure (e.g. reducing air pollution) and health-related behaviours from  actions.",
-          "The below interventions are some of many that have the potential to impact future sustainability of the planet, as well as improve health and wellbeing."
+          "Co-benefits arise from the changes in harmful exposure (e.g. reducing air pollution) and health-related behaviours from  actions. The below interventions are some of many that have the potential to impact future sustainability of the planet, as well as improve health and wellbeing."
         ]
       },
       {
         "subheading": "Active Travel",
         "body": [
-          "- Planet: Active travel helps to reduce air pollution from road transport, particularly passenger cars (61% of GHG from road transport across Europe).",
-          "- People: Active travel incorporates your daily exercise into your routine (making it a lot easier to get out of the way!!). Being active everyday can reduce the risk of: breast cancer, vascular dementia, heart disease and depression.",
-          "- Tip: Switching short car trips to walking or cycling is a great place to start!"
+          "Active travel helps to reduce air pollution from road transport, particularly passenger cars (61% of GHG from road transport across Europe). By avoidng passenger cars and choosing walking, running or cycling to your destination, you can incorporate your daily exercise into your routine (making it a lot easier to get out of the way!!). Being active everyday can reduce the risk of: breast cancer, vascular dementia, heart disease and depression."
         ]
       },
       {
         "subheading": "Accessible Green Space",
         "body": [
-          "- Planet: Green spaces improve air quality, particualrly in urban areas. They also provide huge benefits for biodiversity, such as increasing species populations.",
-          "- People: Green spaces provide areas to relax, excercise, learn and spend time with others. This improves wellbeing by enabling social integration, as well as improving your mood and reducing feelings of stress.",
-          "- Tip: Try eco-therapy activities such as: green exercise, gardening or nature crafts!"
+          "Green spaces improve air quality, particualrly in urban areas. They also provide huge benefits for biodiversity, such as increasing current species populations or re-wilding old ones! These lush green spaces also provide areas for people - such as yourselves - to relax, excercise, learn and spend time with others. This improves wellbeing by enabling social integration; improving your mood and self-esteem; and reducing feelings of stress. Ecotherapy practices are rooted in these benefits - research has shown it can help with feelings of depression. You could start by trying gardening (in your garden or local park - plant helpful seeds to help your local environment), growing food (tasty!), building an animal habitat, nature photography or nature crafts!"
         ]
       },
       {
         "subheading": "Sustainable Nutrition",
         "body": [
-          "- Planet: Reducing your intake of animal products is perhaps the single biggest way to reduce your impact on the environment. Each day, a person who eats a vegan diet saves 1,100 gallons of water, 45 pounds of grain, 30sq ft of forested land and 20lbs CO2 equivalent.",
-          "- People: Cutting out animal products has a myriad of benefits - reducing your chance of heart disease, hypertension, type 2 diabetes and cancer.",
-          "- Tip: Try vegan food for one day, one week, one month or a lifetime! Go see the letter V"
+          "Reducing your intake of animal products is perhaps the single biggest way to reduce your impact on the environment. Each day, a person who eats a vegan diet saves 1,100 gallons of water, 45 pounds of grain, 30sq ft of forested land and 20lbs CO2 equivalent. At the same time, cutting out animal products has a myriad of benefits for you! This way of eating has potential to recude your chance of heart disease, hypertension, type 2 diabetes and cancer. Why not try vegan food for one day, one week, one month? You might find it turns into lifetime! Go see the letter V in our ABClimate series."
         ]
       }
     ],
@@ -710,59 +663,45 @@
     "name": "Energy",
     "summary": "What are the different sources of energy? How do they help or hinder the climate crisis?",
     "tags": ["Alphabet", "Climate-Science", "Energy"],
-    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/107210240_181168013369215_3131795256104087161_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=zQ5HdOuqu-wAX-8pAWa&oh=41a43dab42d3a564cf4b235d42194a1f&oe=5F409C62",
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/107210240_181168013369215_3131795256104087161_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=xsE_Av0xK9sAX8aItlF&oh=c457f0d88f01bcba445ebc6fc5701c4d&oe=5F5C4BE2",
     "homeIndex": "5",
     "sections": [
       {
         "subheading": "What is Energy?",
         "body": [
-          "Energy is power derived from using physical or chemical resources.",
-          "It helps us do all kinds of things by creating power for: light, heat, cars, machines, TVs and charging our phones.",
-          "We simply can't live without it!"
+          "Energy is power derived from using physical or chemical resources. It helps us do all kinds of things by creating power for: light, heat, cars, machines, TVs and charging our phones. We simply can't live without it!!!"
         ]
       },
       {
         "subheading": "How do energy sources generate power?",
         "body": [
-          "1. First, take one source. This can be fossil fuel, nuclear, renewables, or biomass",
-          "2. Then, convert the source into energy",
-          "3. The reaction from this conversion makes a turbine move. This movement powers a generator.",
-          "4. Finally, the generator transfers it's power to the output (the thing it's providing power for like plugs in your home)."
+          "Firstly, take one source. This can be fossil fuel, nuclear, renewables, or biomass. Secondly, convert the source into energy. Then, the reaction from this conversion makes a turbine move. This movement powers a generator. Finally, the generator transfers it's power to the output (the thing it's providing power for like plugs in your home)."
         ]
       },
       {
         "subheading": "Fossil Fuels: Coal, Gas and Oil",
         "body": [
-          "Fossil fuels are a source of non-renewable energy. They contribute the most to our energy production. Fossil fuels are derived from (yep - you guessed it!)... fossils! These fossils were formed from the remains of organisms that lived millions of years ago.",
-          "It's predicted that we'll run out of this source in around 50 years - and perhaps that's a good thing! When fossil fuels burn, they release carbon dioxide into the atmosphere, adding to the greenhouse effect and accelerating global warming. "
+          "Fossil fuels are a source of non-renewable energy. They contribute the most to our energy production. Fossil fuels are derived from (yep - you guessed it!)... fossils! These fossils were formed from the remains of organisms that lived millions of years ago. It's predicted that we'll run out of this source in around 50 years - and perhaps that's a good thing! When fossil fuels burn, they release carbon dioxide into the atmosphere, adding to the greenhouse effect and accelerating global warming."
         ]
       },
       {
         "subheading": "Nuclear: Uranium and Plutonium",
         "body": [
-          "Like fossil fuels, these are non-renewable sources. Sources of nuclear energy are more efficient than fossil fuels - 1kg of nuclear fuel produces millions of times more energy than 1kg of coal.",
-          "Most of the time, nuclear power is safe. However, if there is an accident, radioactive material can be released into the envrionment that can be hazardous to health for thousands of years. This is what happened in Chernobyl."
+          "Like fossil fuels, these are non-renewable sources. Sources of nuclear energy are more efficient than fossil fuels - 1kg of nuclear fuel produces millions of times more energy than 1kg of coal. Most of the time, nuclear power is safe. However, if there is an accident, radioactive material can be released into the envrionment that can be hazardous to health for thousands of years. This is what happened in Chernobyl."
+        ]
+      },
+      {
+        "subheading": "Biomass: Wood, Plants, Manure and Household Waste",
+        "body": [
+          "Biomass is a type of renewable energy source, generated from heating organic matter. We've used biomass energy since the earliest cave men made wood fires! If you've got to this point, you might be thinking... better for the planet if we keep burning trees, plants and waste? We thought that too. You're absolutely right! If Biomass is going to work it requires a sustainable approach, meaning that the source is replaced after using.",
+          "There are 2 main positives to 'doing' biomass sustainably. 1. It can be carbon-neutral: we convert biomass into energy by burning it. This emits carbon dioxide into the atmosphere, like fossil fuels. However - and this is the important bit - trees and plants have the potential to capture the same amount of carbon dioxide emitted through photosynthesis, meaning that any carbon made by the process is cancelled out by producing biomass. And 2. It hels us with waste management! When we use household waste as a biomass energy source, it avoids sitting in our bins and landfill. This plays a vital role in creating a circular economy of energy and waste. This means that we can design waste and pollution out of society by using it to be productive - making our energy!"
         ]
       },
       {
         "subheading": "Renewables: Wind, Solar and Hydro",
         "body": [
           "Renewable energy is derived from natural resouces that keep on giving: wind, the sun, and water. Renewable energy sources don't emit greenhouse gases that contribute to global warming.",
-          "This energy source has more benefits than just being green, too!",
-          "- It's a growing sector that creates jobs",
-          "- Makes electric grids more resilient",
-          "- Lowers energy bills for users",
-          "- Expands access to energy around the world"
-        ]
-      },
-      {
-        "subheading": "Biomass: Wood, Plants, Manure and Household Waste",
-        "body": [
-          "Biomass is a type of renewable energy source, generated from heating organic matter. We've used biomass energy since the earliest cave men made wood fires!",
-          "If you've got to this point, you might be thinking... better for the planet if we keep burning trees, plants and waste? We thought that too. You're absolutely right!",
-          "If Biomass is going to work, it requires a sustainable approach, meaning that the source is replaced after using:",
-          "- It can be carbon-neutral. We convert biomass into energy by burning it. This emits carbon dioxide into the atmosphere, like fossil fuels. However, trees and plants have the potential to capture the same amount of carbon dioxide emitted through photosynthesis.",
-          "- It hels us with waste management! When we use household waste as a biomass energy source, it avoids sitting in our bins and landfill. This plays a vital role in creating a circular economy of energy and waste."
+          "This energy source has more benefits than just being green, too! It expands access to energy, creates jobs, lowers energy bills and makes energy sources more resilient! A great example of this in practice can be seen at Casa Sol Bed and Breakfast in San Juan, Puerto Rico. This eco-hotel has it's own water supply and collection facility along with solar panels for energy. After the devastating hurricanes (Irma and Maria), Casa Sola began helping their local community by providing a source of water and power, such as storing medicine. Now this community are continuing to build on these methods in preparation for the inevitable 'next time', so they can continue to be self-sufficient in an emergency situation."
         ]
       }
     ],
@@ -810,37 +749,28 @@
       {
         "subheading": "Oceans: Why are they important?",
         "body": [
-          "Oceans are the largest ecosystems in the World, generating half of the oxygen we breathe",
-          "Over 3 billion people depend on marine and coastal biodiversity for their livelihoods and protein",
-          "Medicinal products come from the ocean that help to battle cancer, heart disease and Covid-19",
-          "Oceans absorb about 30% of carbon dioxide produced by humans. This helps to buffer the ongoing impacts of Global Warming",
-          "Ocean processes regulate the climate, mediate temperature and determine the weather"
+          "Oceans are the largest ecosystems in the World, generating half of the oxygen we breathe. Over 3 billion people depend on marine and coastal biodiversity for their livelihoods and protein. Medicinal products come from the ocean that help to battle cancer, heart disease and Covid-19. Oceans absorb about 30% of carbon dioxide produced by humans. This helps to buffer the ongoing impacts of Global Warming. Ocean processes regulate the climate, mediate temperature and determine the weather."
         ]
       },
       {
         "subheading": "World Oceans Day",
         "body": [
-          "UN World Oceans day is a celebration and reminder of the role that the oceans play in everyday life!",
-          "The Purpose of the day is to inform the public of the impact of human actions on the ocean, develop a worldwide movement of citizens for the ocean, and mobilize and unite the world's population on a project for the sustainable management of the world's oceans",
-          "The theme for 2020 was Innovation for a Sustainable Ocean, leading up to the UN's decade of Ocean Science which will run between 2021-2030"
+          "UN World Oceans day is a celebration and reminder of the role that the oceans play in everyday life! The Purpose of the day is to inform the public of the impact of human actions on the ocean, develop a worldwide movement of citizens for the ocean, and mobilize and unite the world's population on a project for the sustainable management of the world's oceans. The theme for 2020 was Innovation for a Sustainable Ocean, leading up to the UN's decade of Ocean Science which will run between 2021-2030."
         ]
       },
       {
         "subheading": "Ocean processes",
         "body": [
-          "The Thermohaline Conveyor transports heat around the World helping to regulate the Earth's climate",
-          "The warm waters of the gulf stream flow across the Atlantic and heat parts of Northern Europe by up to 10c in the Winter months.",
-          "As the Gulf stream reaches the Arctic Ocean it cools and turns to flow south. However, this flow has weakened by 20% over the past 50 years.",
-          "Thermohaline circulation is driven by differences in slainity and temperature in water. This means continued Glacial melt could have adverse effects on this process, potentially plunging Western Europe into a colder climate."
+          "The Thermohaline Conveyor transports heat around the World helping to regulate the Earth's climate. The warm waters of the gulf stream flow across the Atlantic and heat parts of Northern Europe by up to 10 degrees in the winter months. As the Gulf stream reaches the Arctic Ocean it cools and turns to flow south. However, this flow has weakened by 20% over the past 50 years. Thermohaline circulation is driven by differences in slainity and temperature in water, so continued Glacial melt could have adverse effects on this process, potentially plunging Western Europe into a colder climate. However, this is unlikely to happen any time soon!"
         ]
       },
       {
-        "subheading": "How Climate Change is affecting the oceans?",
+        "subheading": "How is Climate Change affecting the oceans?",
         "body": [
-          "Coral Bleaching- Many Coral Reefs, including the Great Barrier Reef are dying. Coral bleaching results in the shrinkage, starvation and eventual death of corals that support thousands of species",
-          "Wetlands- Rising sea levels are drowning wetlands that can not grow at a fast enough rate to stay above water.",
-          "Fish Stock- Reports suggest fish are moving towards the poles in response to increased ocean warming. This heavily impacts fisheries around the World and destroys ecosystems.",
-          "Acidification- the trends in ocean acidification are 30 times greater than natural variation. Ocean acidity affects many ocean species abilities to form shells."
+          "Coral Bleaching - Many Coral Reefs, including the Great Barrier Reef are dying. Coral bleaching results in the shrinkage, starvation and eventual death of corals that support thousands of species",
+          "Wetlands - Rising sea levels are drowning wetlands that can not grow at a fast enough rate to stay above water.",
+          "Fish Stock - Reports suggest fish are moving towards the poles in response to increased ocean warming. This heavily impacts fisheries around the World and destroys ecosystems.",
+          "Acidification - the trends in ocean acidification are 30 times greater than natural variation. Ocean acidity affects many ocean species abilities to form shells."
         ]
       }
     ],
@@ -886,35 +816,30 @@
     "homeIndex": "2",
     "sections": [
       {
+        "__comment8__": "Title of the section",
         "subheading": "Burning: What is it?",
+
+        "__comment9__": "Contents of the section which can be seperated into multiple paragraphs",
         "body": [
-          "To undergo rapid combustion or consume fuel in such a way as to give off heat, gases, and, usually, light; be on fire.",
-          "A range of substances are burnt every day, such as wood, fossil fuels, vegetation, and plastics",
-          "Each one of these examples are having disastrous effects on the environment, wildlife, and our health."
+          "To be on fire is to undergo rapid combustion or consume fuel in such a way as to give off heat, gases, and usually, light. A range of substances are burned every day, such as wood, fossil fuels, vegetation, and plastics. Most of the waste we discard is not sent to landfill, but is burnt to produce energy. Each one of these examples are having disastrous effects on the environment, wildlife, and our health."
         ]
       },
       {
         "subheading": "Agricultural Burning",
         "body": [
-          "Farmers in many parts of the world set fire to cultivated fields to clear stubble, weeds and waste before sowing a new crop. Whilst this may be fast and economical, it also reduces the fertility of the soil and produces large quantities of black carbon.",
-          "Open burning accounts for more than a third of all black carbon emissions. Black carbon causes increased air pollution, climate change, and increased melting in the cryosphere.",
-          "Many of the fires witnessed in the Amazon rainforest are a result of this practice, something which is being actively encouraged by President Bolsonaro."
+          "Farmers in many parts of the world set fire to cultivated fields to clear stubble, weeds and waste before sowing a new crop. Whilst this may be fast and economical, it also reduces the fertility of the soil and produces large quantities of black carbon. Open burning accounts for more than one third of all black carbon emissions. This in turn leads to increased air pollution and the production of greenhouse gases, which we all know accelerates anthropogenic climate change. Many of the fires witnessed in the Amazon rainforest are a result of this practice, something which is being actively encouraged by President Bolsonaro."
         ]
       },
       {
         "subheading": "Plastic Burning",
         "body": [
-          "The burning of plastics releases toxic gases like dioxins, furans, mercury and BCPs into the atmosphere. This poses a threat to vegetation, animals, and human health.",
-          "Plastic waste burning increases the risk of heart disease, aggravates respiratory illnesses, such as asthma, and can damage the nervous system.",
-          "The burning of plastic waste has been proposed as an alternative to the burning of fossil fuels. However, this an extremely CO2 intensive process which is also less efficient."
+          "The burning of plastics releases toxic gases like dioxins, furans, mercury and BCPs into the atmosphere. This poses a threat to vegetation, animals, and human health. Plastic waste burning increases the risk of heart disease; aggravates respiratory illnesses, such as asthma; and can damage the nervous system. The burning of plastic waste has been proposed as an alternative to the burning of fossil fuels. However, this an extremely carbon and methane intensive process which is also less efficient."
         ]
       },
       {
         "subheading": "Fossil Fuels",
         "body": [
-          "Non-renewable fuels, which include coal, oil, and natural gas, supply about 80 percent of the world’s energy.",
-          "Carbon dioxide emissions from burning coal account for 44 percent of the world total, and it's the biggest single source of the global temperature increase above pre-industrial levels.",
-          "Fossil Fuel extraction and burning have also led to a number of environemental disasters. These include; the Exxon Valdez spill in 1989 and the Deepwater Horizon disaster in 2010."
+          "Non-renewable fuels - which include coal, oil, and natural gas - supply about 80% of the world’s energy. Carbon dioxide emissions from burning coal account for 44% of the global total, and it's the biggest single source of the global temperature increase above pre-industrial levels. Fossil Fuel extraction and burning have also led to a number of environmental disasters, such as the Exxon Valdez spill in 1989 and the Deepwater Horizon disaster in 2010."
         ]
       }
     ],
@@ -950,34 +875,25 @@
       {
         "subheading": "Migration",
         "body": [
-          "Migration is a strategy and behavioural adaption employed by a range of animals to help them survive.",
-          "These migrations can vary in distance with some species like the Atlantic Salmon travelling thousands of miles, whilst others, such as toads travel very short distances",
-          "Multiple factors can drive migration, including: movement to more hospitable climates when local conditions become unfavourable, and breeding."
+          "Migration is a strategy and behavioural adaption employed by a range of animals to help them survive. These migrations can vary in distance with some species like the Atlantic Salmon travelling thousands of miles, whilst others such as toads travel very short distances. Multiple factors can drive migration, including: movement to more hospitable climates when local conditions become unfavourable, and breeding."
         ]
       },
       {
         "subheading": "Why is it important?",
         "body": [
-          "Migratory animals are essential components of the ecosystems that support life on Earth.",
-          "They act as pollinators and help to disperse seeds, which plays a vital role in maintaining ecosystem structure.",
-          "They provide a source of food for other animals and help to regulate the population of species in ecosystems.",
-          "Migratory species play a large role in how we measure time and experience seasons."
+          "Migratory animals are essential components of the ecosystems that support life on Earth. They act as pollinators and help to disperse seeds, which plays a vital role in maintaining ecosystem structure. They provide a source of food for other animals and help to regulate the population of species in ecosystems. Migratory species play a large role in how we measure time and experience seasons."
         ]
       },
       {
         "subheading": "How is Climate Change affecting migration?",
         "body": [
-          "Land-based species are moving poleward by an average of 17km per decade, and marine species by 72km per decade",
-          "Climate Change is making areas more viable for certain species: Malaria, for example, now appears higher up mountain slopes in Colombia and Ethiopia, as mosquitoes are able to live at higher elevations",
-          "Migratory species are especially at risk due to Climate Change because the require a range of habitats. Often, one or more of these habitats are at risk. This means that many migratory species will need to quickly find ways to adapt or face extinction."
+          "Land-based species are moving poleward by an average of 17km per decade, and marine species by 72km per decade. Climate Change is making areas more viable for certain species: Malaria, for example, now appears higher up mountain slopes in Colombia and Ethiopia, as mosquitoes are able to live at higher elevations. Migratory species are especially at risk due to Climate Change because the require a range of habitats. Often, one or more of these habitats are at risk. This means that many migratory species will need to quickly find ways to adapt or face extinction."
         ]
       },
       {
         "subheading": "Examples of Migratory Species",
         "body": [
-          "Animals such as sea turtles, return to the same beach every year to lay their eggs.",
-          "Some crustaceans such as crabs migrate for breeding purposes. In many species, the females move to shallow coastal waters to mate and lay their eggs before they then return to deeper ocean waters.",
-          "The Whooping Crane breeds on the Canadian border before migrating 4,000 kilometres to Texas for the winter."
+          "Animals such as sea turtles, return to the same beach every year to lay their eggs. Some crustaceans such as crabs migrate for breeding purposes. In many species, the females move to shallow coastal waters to mate and lay their eggs before they then return to deeper ocean waters. The Whooping Crane breeds on the Canadian border before migrating 4,000 kilometres to Texas for the winter."
         ]
       }
     ],
@@ -995,8 +911,8 @@
         "locatedAt": "https://www.theguardian.com/environment/2017/mar/30/climate-change-global-reshuffle-of-wildlife-will-have-huge-impacts-on-humanity"
       },
       {
-        "name": "Climate Change and animal migration",
-        "locatedAt": "Moore, Thomas T. “CLIMATE CHANGE AND ANIMAL MIGRATION.” Environmental Law, vol. 41, no. 2, 2011, pp. 393–405. JSTOR, www.jstor.org/stable/43267496. Accessed 8 June 2020."
+        "name": "Climate Change and animal migration - Moore, Thomas T.",
+        "locatedAt": "JSTOR, www.jstor.org/stable/43267496"
       },
       {
         "name": "The value of animal migration",
@@ -1031,56 +947,57 @@
     "homeIndex": "18",
     "sections": [
       {
-        "subheading": "What is this problem?",
+        "subheading": "What's the present situation?",
         "body": [
-          "Global sea levels are set to rise by a minimum of 2.6 feet by 2100. This can and will leave many island and coastal populations (Particularly in the Less Economically Developed Countries) at risk of becoming climate refugees.",
-          "This is an imminent threat that could leave more than 140 million people displaced from their homes. This is compounded by the fact that the Met Office has seen an increase in Extreme Weather events in the last 40 years.",
-          "to add/remove paragraphs add/remove new sets of speech marks seperated by commas"
+          "Global sea levels are set to rise by a minimum of 2.6 feet by 2100. This can - and will - leave many island and coastal populations (Particularly in the Global South) at risk of becoming climate refugees. This is an imminent threat that could leave more than 140 million people displaced from their homes. This is compounded by the fact that the Met Office has seen an increase in extreme weather events in the last 40 years."
         ]
       },
       {
         "subheading": "Why is this important?",
         "body": [
-          "Mass displacement, as highlighted by the ongoing European refugee crisis, causes: High levels of tension, places strain on welfare systems, and breaks apart communities that have existed for thousands of years.",
-          "People fleeing from the effects of climate change including; drought, flooding and desertification are not legally recognised as Refugees and do not have legal protection."
+          "The ongoing refugee crisis will cause mass displacement, and is already a topic of extreme contention with concerns on the potential strain on welfare systems. The climate crisis is breaking apart communities that have existed for thousands of years.",
+          "Populations are being forced to flee from the effects of changing climate, which is evidenced to create more frequent and severe extreme weather events, including: Drought; Flooding; Desertification; Wild fires and Tropical storms. However, these popualtions are not legally recognised as refugees and therefore do not have legal protection."
         ]
       },
       {
-        "subheading": "Examples across the globe",
+        "subheading": "Examples from across the globe...",
         "body": [
           "In 2015, the first application of refugee status in line with climatic impacts was made in New Zealand by the Teitota family from the island of Kiribati. Their case was ultimately dismissed.",
-          "The Federated states of Micronesia have seen a drastic reduction in size due to rising sea levels and have had their fresh water contaminated by sea water leaving people increasingly vulnerable. These island communities have small populations and due to their less-economically empowered position are struggling to get their voices heard.",
-          "Increased coastal flooding in Bangladesh is causing millions of people to relocate to slums in cities such as Dhaka, where they face poor sanitation, high crime rates and extreme poverty. It is predicted that by 2050, the number of Bangladeshiâ€™s displaced by Climate Change will be 13.3 million."
+          "The Federated states of Micronesia have seen a drastic reduction in size due to rising sea levels and have had their fresh water contaminated by sea water (see S), leaving people increasingly vulnerable. These island communities have small populations and due to their less-economically empowered position are struggling to get their voices heard.",
+          "In Bangladesh, increased coastal flooding is causing millions of people to relocate to slums in cities such as Dhaka, where they face poor sanitation, high crime rates and extreme poverty. It is predicted that by 2050, the number of Bangladeshi’s displaced by Climate Change will be 13.3 million."
         ]
       },
       {
         "subheading": "What can you do to help?",
         "body": [
           "Raise awareness on social media by sharing posts from foundations such as Help Refugees/ Choose Love.",
-          "Sign petitions at https://petition.parliament.uk/ to ensure the government address this issue",
-          "Email Your MP! Find out who your MP is at: https://members.parliament.uk/FindYourMP"
+          "Sign petitions to ensure the government address this issue, and even better, email Your MP!"
         ]
       }
     ],
-    "refrences": [
+    "Want to fact check?": [
       {
-        "name": "visit",
-        "locatedAt": "https://www.worldbank.org/en/news/press-release/2018/03/19/climate-change-could-force-over-140-million-to-migrate-within-countries-by-2050-world-bank-report"
+        "name": "Find out who your MP is at",
+        "locatedAt": "https://members.parliament.uk/FindYourMP"
       },
       {
-        "name": "Podesta, J., (2019). The climate crisis, migration, and refugees [Online]. Brookings.",
-        "locatedAt": "https://www.brookings.edu/research/the-climate-crisis-migration-and-refugees/"
+        "name": "How fast is sea level rising?",
+        "locatedAt": "https://royalsociety.org/topics-policy/projects/climate-change-evidence-causes/question-14/?gclid=CjwKCAjw7e_0BRB7EiwAlH-goP5i42bltozxNnSVltAmPJP75WGFovabzoVoavD2FZ8GkfZYy4Sr8hoC-9QQAvD_BwE "
       },
       {
-        "name": "British Broadcasting Corporation News",
+        "name": "UN rule that climate-related asylum seekers cannot be sent home",
         "locatedAt": "https://www.bbc.co.uk/news/world-asia-51179931"
       },
       {
-        "name": "Royal Society Journal",
-        "locatedAt": "https://royalsociety.org/topics-policy/projects/climate-change-evidence-causes/question-14/?gclid=CjwKCAjw7e_0BRB7EiwAlH-goP5i42bltozxNnSVltAmPJP75WGFovabzoVoavD2FZ8GkfZYy4Sr8hoC-9QQAvD_BwE"
+        "name": "World Bank report on climate migration",
+        "locatedAt": "https://www.worldbank.org/en/news/press-release/2018/03/19/climate-change-could-force-over-140-million-to-migrate-within-countries-by-2050-world-bank-report "
       },
       {
-        "name": "McDonnell, T., (2019). Climate change creates a new migration crisis for Bangladesh [Online]. National Geographic.",
+        "name": "Podesta, J., (2019). The climate crisis, migration, and refugees.",
+        "locatedAt": "https://www.brookings.edu/research/the-climate-crisis-migration-and-refugees/"
+      },
+      {
+        "name": "McDonnell, T., (2019). Climate change creates a new migration crisis for Bangladesh.",
         "locatedAt": "https://www.nationalgeographic.com/environment/2019/01/climate-change-drives-migration-crisis-in-bangladesh-from-dhaka-sundabans/"
       }
     ],
@@ -1092,46 +1009,47 @@
     "name": "Sea Level Rise",
     "summary": "What causes sea level rise and why is this a problem?",
     "tags": ["Alphabet", "Climate-Science", "Politics", "Water"],
-    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/98149655_2640524726274406_3131646275754088649_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=110&_nc_ohc=Qr1YcYqdjMkAX8W-ylY&oh=0ae4fedbd4c131650fc35e8521a5ca50&oe=5F41D39A",
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/98149655_2640524726274406_3131646275754088649_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=110&_nc_ohc=Cv2r7yW6rcUAX_PwlT5&oh=b1e863333ba932bbe1918fbc37121a74&oe=5F5D831A",
     "homeIndex": "19",
     "sections": [
       {
-        "subheading": "Why is this a problem?",
+        "subheading": "What's Happening to Global Sea Levels?",
         "body": [
-          "- Global sea levels have risen by 8 inches since 1880.",
-          "Causes: Human activities producing greenhouse gas emissions (deforestation, petrol conumption, fossil fuel burning and agriculture)"
+          "Global sea levels have risen by 8 inches since 1880, and the rate of sea level rise is only getting faster, with oceans rising an average of 3.2 millimeters per year globally. Sea levels could increase up to 2 meters by 2100, threatening many low lying areas.The cause? Excessive production of greenhouse gas emissions through practices such as deforestation, petrol conumption, fossil fuel burning and agriculture."
         ]
       },
       {
-        "subheading": "The science behind this",
+        "subheading": "The Science Behind This",
         "body": [
-          "Thermal expansion: The greenhouse effect increases the temperature of sea water. Upon heating, water expands causing an increase in ocean volume and sea levels.",
-          "Increased melting of ice: Melting of ice (e.g. Greenland ice) from atmospheric warming increases the volume of water in the ocean."
+          "Warming temperatures don't just melt a few ice caps, our oceans are also being affected by a process known as thermal expansion. Due to the greenhouse effect (see G for more on that!), oceans are warming. If you remember anything from your school chemistry lessons, you might remember that heat caauses water to expand. This is exactly what's happening to our oceans, causing an increase in volume and producing higher sea levels.",
+          "Increased melting of ice is to partially blame as well of course. Melting of icecaps from atmospheric warming and feedback mechanisms such as the albedo effect (check out F and A for the facts) contributes additional water to our oceans, some which has been locked in glaciers for many many years. Global warming is not a uniform process, and the arctic is heating at twice the rate of anywhere else on the planet. Greenlands glaciers pose the biggest threat to sea level rise, home to 2.96 million cubic kilometers of ice. It is important to not that melting sea ice does not directly contribute to rising sea levels. Just as a drink with ice in it will not overflow when the ice melts, sea ice is already accounted for in our ocean's volume. However, due to the albedo effect, melting sea ice reveals more dark ocean beneath it which will both absorb more solar energy, and contribute additional water that will expand as it heats."
         ]
       },
       {
         "subheading": "Impacts",
         "body": [
-          "1) Permanant inundation- low lying coasts (e.g. Maldives) will become submerged",
-          "2) Contamination of drinking water- salt water breaches drinking supplies",
-          "3) Destabilization of the coastline = loss of beaches",
-          "4) Amplified storm surges = more destructive",
-          "5) Loss of habitat for fish and birds- potential death of coastal species"
+          "Rising sea levels threaten low lying coastal areas, from the Maldives, to New York, Singapore and beyond. Changing sea levels also risk the contamination of drinking water supplies - with porous aquifers absorbing the rising salt water. In Florida, limestone aquifers that provide drinking water to nearly 6 million people are increasingly polluted by salt water due to rising sea levels and unsustainable quantities of ground water being removed.",
+          "There are many more impacts of sea level rise, from increased coastal erosion due to the loss of protective beaches; amplified storm surges with the power to be more destructive; and even the loss of habitat for fish and birds due to the loss of coastal habitats!",
+          "So, as you can tell, sea level rise isn't going to be ideal. It's easy to start feeling anxious and overwhelmed about these impacts - trust me, we've all been there! But there are solutions, you can urge your local (and less local) officials to commit to mitigating and protecting against flooding. We also need to tackle the root cause - decreasing our greenhouse gas emissions and removing carbon dioxide and other harmful gases from our atmosphere. One effective solution that can also work to protect coastal areas are protecting and conserving wetlands and peatlands (areas where the remains of vegetation are compressed in waterlogged conditions). Peatlands have the potential of storing up to 550 gigatonnes of carbon - in fact they are the largest terrestrial store of carbon in the world! They have real potential to help with carbon removal, but damaged peatlands can contribute significant greenhouse gases. Championing for the preservation of our natural resources is one thing you can do if you want to help mitigate the flood risk of sea level rise, and contribute to tackling the climate crisis!"
         ]
       }
     ],
     "refrences": [
       {
-        "name": "Coatal Impacts",
-        "locatedAt": "FitzGerald, D. M., Fenster, M.S., Argow, B.A., & Buynevich, I.V. (2008), Coastal impacts due to sea-level rise. Annual Review of Earth and Planetary Sciences, 36"
+        "name": "Bamber, J., Oppenheimer, M., Kopp, R., Aspinall, W., & Cooke, R. (2019). Ice sheet contributions to future sea-level rise from structured expert judgement. Proceedings of the National Academy of Sciences of the United States. 116(23), 11195-11200.",
+        "locatedAt": "https://research-information.bris.ac.uk/ws/portalfiles/portal/197623989/Full_text_PDF_final_published_version_.pdf"
       },
       {
-        "name": "Ice sheet contributions",
-        "locatedAt": "Bamber, J., Oppenheimer, M., Kopp, R., Aspinall, W., & Cooke, R. (2019). Ice sheet contributions to future sea-level rise from structured expert judgement. Proceedings of the National Academy of Sciences of the United States. 116(23), 11195-11200."
+        "name": "FitzGerald, D. M., Fenster, M.S., Argow, B.A., & Buynevich, I.V. (2008), Coastal impacts due to sea-level rise. Annual Review of Earth and Planetary Sciences, 36",
+        "locatedAt": "https://www.annualreviews.org/doi/full/10.1146/annurev.earth.35.031306.140139"
       },
       {
-        "name": "Changes in the tropics",
-        "locatedAt": "Webster PJ, Holland GJ, Curry JA, Chang HR. 2005. Changes in tropical cyclone number, duration, and intensity in a warming environment. Science 309: 1844-46"
+        "name": "Webster PJ, Holland GJ, Curry JA, Chang HR. 2005. Changes in tropical cyclone number, duration, and intensity in a warming environment. Science 309: 1844-46",
+        "locatedAt": "https://science.sciencemag.org/content/309/5742/1844.full"
+      },
+      {
+        "name": "Peatlands and Climate Change",
+        "locatedAt": "https://www.iucn.org/resources/issues-briefs/peatlands-and-climate-change"
       }
     ],
     "colour": "#3f638a",
@@ -1141,61 +1059,46 @@
     "user": "5d7a514b5d2c12c7449be042",
     "name": "The IPCC",
     "summary": "Who are the IPCC, and what predictions have they made?",
-    "tags": [
-      "Alphabet",
-      "Energy",
-      "Waste",
-      "Food",
-      "Transport",
-      "Climate-Science",
-      "Politics",
-      "Water"
-    ],
-    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/104832964_721281548652235_1698767700242325567_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=Bk5YJZxV3C0AX-H1KCr&oh=483519dd92132b27f9e58e2909b5a941&oe=5F40664F",
+    "tags": ["Alphabet", "Climate-Science", "Politics"],
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/104832964_721281548652235_1698767700242325567_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=a5S5OMibIcgAX-v7qSY&oh=d7a68c2b9a3cbd114f6de1d971f671eb&oe=5F5C15CF",
     "homeIndex": "9",
     "sections": [
       {
         "subheading": "Intergovernmental Panel on Climate Change (IPCC). Who are they?",
         "body": [
-          "- A group of experts from around the world providing regular scientific assessments on climate change to policymakers.",
-          "- They display the potential future risks of climate change on the planet, suggesting a range of ways to adapt current behaviours in order to reduce these risks."
+          "A group of experts from around the world providing regular scientific assessments on climate change to policymakers.",
+          "They display the potential future risks of climate change on the planet, suggesting a range of ways to adapt current behaviours in order to reduce these risks."
         ]
       },
       {
         "subheading": "How do they form these assessments?",
         "body": [
-          "There are 3 working groups who make up the IPCC. Working group I: The Physical Science Basis of Climate Change. Working group II: Climare Change Impacts, Adaptation and Vulnerability. Working group III: Mitigation of climate change.",
+          "The IPCC is comprised of 3 working groups. Working group I who focus on The Physical Science Basis of Climate Change, Working group II focusing on Climate Change Impacts, Adaptation and Vulnerability, and Working group III who look at the Mitigation of climate change.",
           "Process: Select working group authors - Assess literature - First draft - Expert review of first draft - Second order draft and Summary for Policymakers - Review - Final draft and government approval - Snthesis report created"
         ]
       },
       {
         "subheading": "2019 report summary",
         "body": [
-          "- Limiting warming to 1.5'C instead of 2'C would have clear benefits to both people and the environment, however this would take unprecedented societal changes.",
-          "- By 2100 global sea level rise would be 10cm lower with 1.5'C warming compared to 2'C.",
-          "- Rather than a complete loss with a 2'C increase, coral reefs would decline by 70-90% with 1.5'C warming.",
-          "- A warming of greater than 1.5'C increases the risk of irreversable change (e.g. extinction of ecosystems).",
-          "- Keeping warming to 1.5'C allows ecosystems the chance to adapt to changes."
+          "Limiting warming to 1.5'C instead of 2'C would have clear benefits to both people and the environment, however this would take unprecedented societal changes. By 2100 global sea level rise would be 10cm lower with 1.5'C warming compared to 2'C. Rather than a complete loss with a 2'C increase, coral reefs would decline by 70-90% with 1.5'C warming. A warming of greater than 1.5'C increases the risk of irreversible change (e.g. extinction of ecosystems). Keeping warming to 1.5'C allows ecosystems the chance to adapt to changes."
         ]
       },
       {
         "subheading": "What can you do to help?",
         "body": [
           "Stay educated and cut your carbon footprint!",
-          "- Cut your carbon footprint to help society stick to the 1.5'C of warming (see Y for more!)",
-          "- Stay up to date with future IPCC reports to show you how you can continue to help the climate crisis",
-          "- Raise awareness! Join environmental groups (see X for an example) to educate others on the climate crisis to unite society in the fight against climate change"
+          "Cut your carbon footprint to help society stick to the 1.5'C of warming (see Y for more!). Stay up to date with future IPCC reports to show you how you can continue to help the climate crisis. Raise awareness! Join environmental groups (see X for an example) to educate others on the climate crisis to unite society in the fight against climate change"
         ]
       }
     ],
     "refrences": [
       {
-        "name": "Energy Saving Trust",
-        "locatedAt": "https://energysavingtrust.org.uk/blog/climate-change-what-can-you-do-help"
-      },
-      {
         "name": "IPCC, I.P.O.C.C., 2019. Special report on global warming of 1.5'C (SR15).",
         "locatedAt": "https://www.ipcc.ch/"
+      },
+      {
+        "name": "Energy saving trust",
+        "locatedAt": "https://energysavingtrust.org.uk/blog/climate-change-what-can-you-do-help"
       }
     ],
     "colour": "#ffdd33",
@@ -1389,7 +1292,7 @@
         ]
       },
       {
-        "Subheading": "What can you do about it?",
+        "subheading": "What can you do about it?",
         "body": [
           "Going vegan might seem like a massive step that you're not ready for, or maybe you don't know where to start going green? So we've compiled a small guide to give you some asssitance!",
           "1) Prepare yourself. Do your research. Make a list of essentials for your cupboard and fridge, ensuring you're getting a wide variety of nuts, gtains, fruit and vegetables and vitamins. Expand your knowledge. Read and watch documentaries (Cowspiracy, Gamechangers, Forks over Knives and What the Health are some gems on Netflix).",
@@ -1428,5 +1331,198 @@
     ],
     "colour": "#0cf0eb",
     "backgroundImage": "https://images.unsplash.com/photo-1544352063-74aa5f9f8c59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Quaternary Period",
+    "summary": "What is the Quaternary Period and what does it teach us about climate change?",
+    "tags": ["Alphabet", "Climate-Science"],
+    "instagramLink": "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-15/e35/101550811_265406324525120_1584947643734421379_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_cat=108&_nc_ohc=ZZGCuPYBuZIAX8xxYw-&oh=f2e0860b59870eddfd3cddc1a23deded&oe=5F5D3338",
+    "homeIndex": "17",
+    "sections": [
+      {
+        "__comment8__": "Title of the section",
+        "subheading": "What is the Quaternary Period?",
+
+        "__comment9__": "Contents of the section which can be seperated into multiple paragraphs",
+        "body": [
+          "The Quaternary Period is the geological time period that we are currently in, which encompasses the last 2.6 million years. The Quaternary Period is composed of two 'epochs', which are subdivisions of a geological period. The two epochs making up the Quaternary are called the Pleistocene and the Holocene. We are currently in the Holocene, however, there is debate about the start of a new epoch."
+        ]
+      },
+      {
+        "subheading": "The Pleistocene",
+        "body": [
+          "The Pleistocene epoch stretches from 2.6 million years ago (the start of the Quaternary) to 11,000 years before present. This epoch makes up the majority of the Quaternary Period and is characterised by more than 50 large-scale climate oscillations, from cold glacial intervals, lasting as long as 100,000 years, to warm interglacial intervals, lasting up to 10,000 years. The most recent glacial cycle occurred roughly 115,000-11,700 years ago."
+        ]
+      },
+      {
+        "subheading": "The Holocene",
+        "body": [
+          "The Holocene epoch is the current interglacial interval which began 11,000 years ago and continues to the present day. Human civilisations and modern flora and fauna have arisen during the Holocene as the Earth entered a warmer trend. Agriculture is one of the primary ways in which human civilisations developed. The cultivation of wheat, barley, rice and other plants and the domestication of animals began roughly 8,000 years ago."
+        ]
+      },
+      {
+        "subheading": "The Anthropocene",
+        "body": [
+          "A proposed new geological epoch coined by the Nobel Prize winning chemist, Paul Crutzen, in 2002. Crutzen suggested that because human activities have had such a significant impact on the fabric of the earth, through agriculture, urbanisation, and fossil fuel burning, it is justifiable to claim we have entered a new epoch. Many agree with this proposition, but much debate surrounds when this period began. The International Commission on Stratigraphy are currently debating proof of the Anthropocene and are looking for a 'Golden Spike' - a marker in the fossil record which could demarcate the Holocene from the Anthropocene."
+        ]
+      },
+      {
+        "subheading": "Ice Cores and the Quaternary",
+        "body": [
+          "Studies of past geological epochs and climates help climate scientists predict future warming and provide a contextual record for which to compare and argue the case for anthropogenic greenhouse warming. Ice cores taken across locations in Antarctica and Greenland ice sheets contain ancient air bubbles trapped in the glaciers. Scientists can test these to determine concentrations of past greenhouse gases in comparison to those we measure today. These are called proxies for the understanding of past epochs. Scientists have shown that both the levels of present-day greenhouse gases and the rate of increase is anomalous in comparison to the past 800,000 years. Maximum methane levels reached 800 ppl over the past 650 thousand years, compared to present day levels of over 1800 ppl. CO2 levels in the late Quaternary ranged between approximately 170 to 300 ppm, in stark contrast to CO2 levels of 416 ppm recorded presently. Kopp et al (2009) claimed that a doubling of CO2 levels is enough to cause a 2 - 4.5 degree rise in climate sensitivity, stating that current levels are sufficient to produce a warming of 1.4 - 3.2 degrees increase in global temperatures.",
+          "With the IPCC stressing the importance of limiting warming to under 1.5 degrees centigrade, it is important we work towards a carbon neutral future and keep up pressure on officials and corporations to ensure they take responsibility."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "Monitored trends in Carbon Dioxide",
+        "locatedAt": "https://www.esrl.noaa.gov/gmd/ccgg/trends/weekly.html"
+      },
+      {
+        "name": "Kopp et al., (2009) Assessment of Sea Level During the Last Interglacial Stage",
+        "locatedAt": "https://www.nature.com/articles/nature08686"
+      },
+      {
+        "name": "Pillans and Gibbard (2012) The Quaternary Period",
+        "locatedAt": "https://www.researchgate.net/publication/279428084_The_Quaternary_Period"
+      },
+      {
+        "name": "M. J. Siegert (2014) Evidence of the Growth and Decay of Ice Sheets on Glaciated Landscapes",
+        "locatedAt": "http://scitechconnect.elsevier.com/resources/reference-module-earth-sciences-environmental-systems/"
+      },
+      {
+        "name": "Trutzen (2006) The 'Anthropocene'",
+        "locatedAt": "https://link.springer.com/chapter/10.1007%2F3-540-26590-2_3"
+      }
+    ],
+    "colour": "#ffdd33",
+    "backgroundImage": "https://images.unsplash.com/photo-1508180588132-ec6ec3d73b3f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Natural Disasters",
+    "summary": "How does climate change relate to natural disasters, and are they expected to get worse?",
+    "tags": ["Alphabet", "Climate-Science", "Water"],
+    "instagramLink": "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/e35/101501181_205087893852815_4440917541130745789_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=111&_nc_ohc=2t9V0uz34JoAX_kRItQ&oh=4965a0ea783bb5570b5ac19d7a2f847f&oe=5F5AE899",
+    "homeIndex": "14",
+    "sections": [
+      {
+        "subheading": "How do you define a natural disaster?",
+        "body": [
+          "Natural disasters are a naturally occurring physical phenomena caused either by rapid or slow onset events which can be:",
+          "Geophysical - events caused by the movements and processes of the Earth, such as earthquakes, tsunamis, landslides and volcanoes.",
+          "Hydrological - relating to changes in precipitation or bodies of H2O, such as avalanches and floods.",
+          "Climatological - events associated with the climate, general or long-term weather conditions such as widespread droughts.",
+          "Meteorological - localised weather conditions which can create freak extreme weather events, such as tropical storms/cyclones/typhoons.",
+          "Biological - disease epidemics/pandemics and insect/animal plagues."
+        ]
+      },
+      {
+        "subheading": "What are the impacts of climate change on natural disasters?",
+        "body": [
+          "Mounting evidence suggests that changes in the global climate exacerbates climate hazards and amplifies the risk of extreme weather disasters. An increase in global surface temperatures is likely to result in more droughts and increased intensity of storms. As more water vapour is evaporated into the atmosphere, due to increased ice-melt, it becomes fuel for more powerful storms. More heat in the atmosphere and warmer ocean surface temperatures is likely to lead to increased wind speeds and tropical storms."
+        ]
+      },
+      {
+        "subheading": "A growing trend of more destructive natural disasters?",
+        "body": [
+          "Cyclones Idai and Kenneth hit Southern Africa in 2019, taking the lives of 1000+ people, hitting areas where no tropical cyclone has been observed since the satellite era. The start of 2020 found Australia in the midst of its worst-ever bushfire season, following on from its hottest year on record which had left soil and vegetation extremely dry, easily catching on fire and fuelling it further. Moreover, higher sea temperatures have doubled the likelihood of drought in the Horn of Africa region. Severe droughts in 2011, 2017 and 2019 have repeatedly wiped out crops and livestock. However, in India, Nepal and Bangladesh, exceptionally heavy monsoon rains and intense flooding destroyed, killed and devastated lives just two years ago."
+        ]
+      },
+      {
+        "Subheading": "A disproportionate impact.",
+        "Body": [
+          "Natural disasters affect all countries, rich and poor, but as we face a future of enhanced risks it is critical we face the reality of those who bear the burden of our changing climate. People in less economically developed countries are at least four times more likely to be displaced by extreme weather than people in more economically developed countries. There is a strong intersection between economic and social factors which result in individuals facing extreme vulnerability. When Hurricane Katrina hit New Orleans, black LGBTQ+ communities were devastated, with many refused shelter due to their sexuality. Over a decade later, the community still haven't fully recovered. In Kingston, Jamaica, much of the LGBTQ+ community have faced disownment by families and have resorted to living in camps on the outskirts of the city in coastal areas. They will be the first hit by tropical storms and least equipped to prepare and manage the aftermath.",
+          "The world faces a race against time to reduce emissions and help the most vulnerable cope with climate impacts that are already being faced today and will only escalate in the years ahead. It's time to act now. Donate to relief funds, Black Lives Matter charities or LGBTQ+ charities such as Stonewall or the Albert Kennedy Trust. Push leaders to commit to emissions reduction and do your bit to help."
+        ]
+      }
+    ],
+    "refrences": [
+      {
+        "name": "Monroe (2015) The Latest Tragedy for Black Gays in New Orleans",
+        "locatedAt": "https://www.advocate.com/commentary/2015/09/03/op-ed-latest-tragedy-black-gays-new-orleans"
+      },
+      {
+        "name": "International Federation of the Red Cross, 2020",
+        "locatedAt": "https://www.ifrc.org/en/what-we-do/disaster-management/about-disaster-management/"
+      },
+      {
+        "name": "Oxfam (2020) 5 Natural Disasters That Beg for Climate Action",
+        "locatedAt": "https://www.oxfam.org/en/5-natural-disasters-beg-climate-action"
+      },
+      {
+        "name": "United States Geological Survey (2020) How Climate Change Affects Natural Disasters",
+        "locatedAt": "https://www.usgs.gov/faqs/how-can-climate-change-affect-natural-disasters-1?qt-news_science_products=0#qt-news_science_products"
+      },
+      {
+        "name": "Shelterbox (2020) Climate Change and Natural Disasters",
+        "locatedAt": "https://www.shelterbox.org/climate-change"
+      }
+    ],
+    "colour": "#0cf0eb",
+    "backgroundImage": "https://images.unsplash.com/photo-1544257750-572358f5da22?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2288&q=80"
+  },
+  {
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Local",
+    "summary": "How does shopping locally help reduce your carbon footprint, especially from food?",
+    "tags": ["Alphabet", "Food", "Transport"],
+    "instagramLink": "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-15/e35/103637139_150715366523910_6183809114518138905_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_cat=106&_nc_ohc=HpDY7GJUKogAX-oaHv0&oh=595e383118cdeccdf61d8483e2714a9e&oe=5F5D151A",
+    "homeIndex": "12",
+    "sections": [
+      {
+        "subheading": "What's the issue?",
+        "body": [
+          "You can get anything you want delivered to your front door by tomorrow in just one click, but is this sustainable? A growing consumer appetite for convenience is taking its toll on the environment. By 2030, urban last-mile delivery emissions (from the final leg of a journey to get a product to the consumer) are set to increase by more than 30% in 100 cities globally."
+        ]
+      },
+      {
+        "subheading": "The issue of food miles.",
+        "body": [
+          "Transporting food within, to and around the UK produces 19 million tonnes of CO2 annually, equivalent to around 5.5 million typical cars. Different foods also incur different carbon footprints, do you know the average greenhouse gases in your lunch? We know there's a lot of information out there, and it gets pretty overwhelming. You can use the BBC's Climate Change Food Calculator to estimate the footprint of your plate (check out the references below!). Some examples are:",
+          "Avocados: 0.2kg",
+          "Tomatoes: 0.16kg",
+          "Berries and grapes: 0.125kg",
+          "Bananas: 0.06kg",
+          "Citrus fruits: 0.03kg"
+        ]
+      },
+      {
+        "subheading": "What are the benefits of shopping locally?",
+        "body": [
+          "When you shop at local butchers, bakers, farm shops and green grocers; it is likely that the majority of the produce has a shorter field-to-fork journey than large supermarkets, this incurs a much smaller carbon footprint. You will also be supporting your local economy and independent businesses. Research on spending shows that for every £1 spent with a small or medium-sized business, 63p stays within the local economy, compared to 40p for larger organisations. That's nearly one third more! Moreover, many farmers participating in local farmers' markets use organic non-GMO and chemical free methods to grow their own produce, and often use less plastic packaging also."
+        ]
+      },
+      {
+        "subheading": "Is it an affordable alternative?",
+        "body": "Independent grocers often have a reputation of being a pricier alternative to supermarkets, and while some can't afford the discount bulk prices of supermarkets - they often have a lower mark-up rate on groceries. It's worth doing a bit go digging in your local area to see what your options are. Seasonal markets might also give you the opportunity to practice your haggling skills, or reduce prices towards the end of their opening hours to make sure all fresh produce gets bought and none is wasted. Independent and local food outlets will provide you with delicious seasonal produce grown locally, so you can be sure that your plate has a low carbon footprint."
+      }
+    ],
+    "refrences": [
+      {
+        "name": "Stylianou et al (2019) Climate Change food calculator: What's your diet's carbon footprint?",
+        "locatedAt": "https://www.bbc.co.uk/news/science-environment-46459714"
+      },
+      {
+        "name": "Farmbrough (2019) Why Internet Shopping Isn't Always Better for the Environment",
+        "locatedAt": "https://www.forbes.com/sites/heatherfarmbrough/2019/10/14/why-internet-shopping-isnt-always-better-for-the-environment/"
+      },
+      {
+        "name": "Whiting (2020) Online Shopping is Polluting the Planet - But it's Not Too Late",
+        "locatedAt": "https://www.weforum.org/agenda/2020/01/carbon-emissions-online-shopping-solutions/"
+      },
+      {
+        "name": "Allen (2020) The Facts About Food Miles",
+        "locatedAt": "https://www.bbcgoodfood.com/howto/guide/facts-about-food-miles"
+      },
+      {
+        "name": "Label (2018) Fifteen reasons why you should shop at a local company",
+        "locatedAt": "https://smallbusiness.co.uk/fifteen-reasons-choose-local-company-2542429/"
+      }
+    ],
+    "colour": "#dd186b",
+    "backgroundImage": "https://images.unsplash.com/photo-1485637701894-09ad422f6de6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
   }
 ]
