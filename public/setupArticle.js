@@ -96,9 +96,7 @@ requestArticle.onreadystatechange = function () {
         '(\\#[-a-z\\d_]*)?$',
       'i'
     ); // fragment locator
-    console.log('hi');
     for (var refrence in element.refrences) {
-      console.log('inside');
       var ul = document.createElement('ul');
       var li = document.createElement('li');
       var name = document.createElement('span');
@@ -110,18 +108,14 @@ requestArticle.onreadystatechange = function () {
       ul.appendChild(li);
 
       li = document.createElement('li');
-      console.log('start');
       // If URL make hyperlink
       if (URLpattern.test(element.refrences[refrence].locatedAt)) {
-        console.log('link added');
         var newRef = document.createElement('a');
         newRef.href = element.refrences[refrence].locatedAt;
       } else {
-        console.log('book added');
         var newRef = document.createElement('span');
       }
 
-      console.log('done');
       newText = document.createTextNode(element.refrences[refrence].locatedAt);
       newRef.appendChild(newText);
       li.appendChild(newRef);
@@ -129,7 +123,6 @@ requestArticle.onreadystatechange = function () {
 
       newContainer.appendChild(ul);
     }
-    console.log('outside');
 
     // Set up Simliar articles query
     // Create query string
